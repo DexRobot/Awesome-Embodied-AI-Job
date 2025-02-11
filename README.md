@@ -46,4 +46,4 @@ VLA 工作实习机会也可以联系我这里 国地人形机器人创新中心
 **[2025.2.11]** [逐际动力-具身大模型算法+物理仿真+视频生成+世界模型+运动控制实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E9%80%90%E9%99%85%E5%8A%A8%E5%8A%9B-%E5%85%B7%E8%BA%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%2B%E7%89%A9%E7%90%86%E4%BB%BF%E7%9C%9F%2B%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%2B%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%2B%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211)
 
 **[2025.2.11]**
-@李方 感谢群主组织的交流平台～ 如果大家在找 PhD 或 RA 机会，也欢迎考虑我们这边，北京大学前沿计算研究中心、宁波东方理工大学（暂名），方向涵盖3DV/LLM/VLA等。目前还有25 Fall PhD的Opening，和上交/中科大/港理工/华威联培。详情https://wentao.live/join.html
+[北大前沿计算中心-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E5%8C%97%E5%A4%A7%E5%89%8D%E6%B2%BF%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-PhD-20250211)
