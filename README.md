@@ -28,8 +28,7 @@
 实习也可以考虑来我们这儿，阿里巴巴达摩院视觉技术实验室，主要方向基于VLM的VLA、视频预训练VLA等，如果合适会快速推进 @GJ
 
 **[2025.2.11]**
-HKU MMLAB @YaoMarkMu
-https://docs.google.com/document/d/1GDpp2uKxUX5I7vU6RilKLRg-GGGshrBLGtSzmMqJiMA/edit?tab=t.0
+[香港大学MMLAB罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211)
 
 **[2025.2.11]**
 [清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211)
