@@ -1,10 +1,11 @@
 # Awesome-Embodied-AI-Job
 
-
 <div align=center><img src="https://github.com/user-attachments/assets/036b7523-7141-4f4e-9269-40aea6657948"/></div>
 <p align="center"><strong>Don't panic! You are much better than you think!</strong></p>
 <p align="center"><strong>If you don't feel well, feel free to come to me!</strong></p>
 <p align="center">(wechat: StarRingSpace / email: zhuohengli@foxmail.com)</p>
+
+🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.11]**
 [OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211)
