@@ -32,7 +32,7 @@ HKU MMLAB @YaoMarkMu
 https://docs.google.com/document/d/1GDpp2uKxUX5I7vU6RilKLRg-GGGshrBLGtSzmMqJiMA/edit?tab=t.0
 
 **[2025.2.11]**
-也欢迎大家联系我。我是高阳，现在是清华叉院的助理教授，和千寻智能的联创。我这边在清华和千寻智能都在做一些蛮有意思的研究工作。这是我的个人主页：https://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html。 大家感兴趣的话，可以发我简历哈：gy20073@gmail.com
+[清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211)
 
 **[2025.2.11]**
 OpenDriveLab recruit@opendrivelab.com & hy@opendrivelab.com
