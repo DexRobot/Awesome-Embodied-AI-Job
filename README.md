@@ -6,6 +6,15 @@
 <p align="center"><strong>If you don't feel well, feel free to come to me!</strong></p>
 <p align="center">(wechat: StarRingSpace / email: zhuohengli@foxmail.com)</p>
 
+**[2025.2.11]**
+[OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211)
+
+**[2025.2.11]**
+[香港大学MMLAB罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211)
+
+**[2025.2.11]**
+[清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211)
+
 **[2025.2.11]** 
 [极佳科技-具身智能机器人算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%9E%81%E4%BD%B3%E7%A7%91%E6%8A%80-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20240211)
 
@@ -26,15 +35,6 @@
 
 **[2025.2.11]**
 实习也可以考虑来我们这儿，阿里巴巴达摩院视觉技术实验室，主要方向基于VLM的VLA、视频预训练VLA等，如果合适会快速推进 @GJ
-
-**[2025.2.11]**
-[OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211)
-
-**[2025.2.11]**
-[香港大学MMLAB罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211)
-
-**[2025.2.11]**
-[清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211)
 
 **[2025.2.11]**
 [国家地方共建人形机器人创新中心/人形机器人(上海)有限公司-具身大模型实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E6%96%B9%E5%85%B1%E5%BB%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83or%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA(%E4%B8%8A%E6%B5%B7)%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-%E5%85%B7%E8%BA%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211)
