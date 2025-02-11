@@ -1,7 +1,10 @@
 OpenDriveLab 
 校招 / 社招 / 实习 / Postdoc / Research Assistant
+
 recruit@opendrivelab.com & hy@opendrivelab.com 
+
 https://opendrivelab.com/
+
 招聘链接：https://mp.weixin.qq.com/s/x5d3y14OK7Xa_-YN98sy3g
 
 另招强化学习实习生：
