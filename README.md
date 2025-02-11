@@ -29,7 +29,7 @@
 搭车同求，我们也在社招校招和招实习生，做人形机器人方向的vla ，欢迎有兴趣的大佬们私聊，坐标深圳某上市公司 @zy
 
 **[2025.2.11]** 
-[中科慧灵-VLA方向社招/校招]([https://github.com/StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E4%B8%AD%E7%A7%91%E6%85%A7%E7%81%B5-VLA%E6%96%B9%E5%90%91%E7%A4%BE%E6%8B%9B%E6%88%96%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211))
+[中科慧灵-VLA方向社招/校招](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E4%B8%AD%E7%A7%91%E6%85%A7%E7%81%B5-VLA%E6%96%B9%E5%90%91%E7%A4%BE%E6%8B%9B%E6%88%96%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211)
 
 **[2025.2.11]**
 [比亚迪-人型机器人算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%AF%94%E4%BA%9A%E8%BF%AA-%E4%BA%BA%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250211)
