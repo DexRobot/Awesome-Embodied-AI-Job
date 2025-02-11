@@ -28,14 +28,13 @@
 实习也可以考虑来我们这儿，阿里巴巴达摩院视觉技术实验室，主要方向基于VLM的VLA、视频预训练VLA等，如果合适会快速推进 @GJ
 
 **[2025.2.11]**
+[OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211)
+
+**[2025.2.11]**
 [香港大学MMLAB罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211)
 
 **[2025.2.11]**
 [清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211)
-
-**[2025.2.11]**
-OpenDriveLab recruit@opendrivelab.com & hy@opendrivelab.com
-https://opendrivelab.com/
 
 **[2025.2.11]**
 VLA 工作实习机会也可以联系我这里 国地人形机器人创新中心 @朱玉琛
