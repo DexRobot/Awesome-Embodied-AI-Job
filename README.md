@@ -16,6 +16,10 @@
 **[2025.2.11]**
 [清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211)
 
+**[2025.2.11]**
+[北大前沿计算中心-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E5%8C%97%E5%A4%A7%E5%89%8D%E6%B2%BF%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-PhD-20250211)
+
+
 **[2025.2.11]** 
 [极佳科技-具身智能机器人算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%9E%81%E4%BD%B3%E7%A7%91%E6%8A%80-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20240211)
 
@@ -43,6 +47,3 @@
 **[2025.2.11]** [地瓜机器人-具身智能算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E5%9C%B0%E7%93%9C%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211)
 
 **[2025.2.11]** [逐际动力-具身大模型算法+物理仿真+视频生成+世界模型+运动控制实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E9%80%90%E9%99%85%E5%8A%A8%E5%8A%9B-%E5%85%B7%E8%BA%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%2B%E7%89%A9%E7%90%86%E4%BB%BF%E7%9C%9F%2B%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%2B%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%2B%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211)
-
-**[2025.2.11]**
-[北大前沿计算中心-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E5%8C%97%E5%A4%A7%E5%89%8D%E6%B2%BF%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-PhD-20250211)
