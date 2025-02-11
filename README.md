@@ -32,7 +32,7 @@
 [坐标北京海淀某初创公司-VLA方向社招/校招](https://github.com/StarCycle/Awesome-Embodied-AI-Job)
 
 **[2025.2.11]**
-乘着东风，搭车同求，这边也在社招校招，做具身智能方向，欢迎有兴趣的大佬私聊。坐标深圳新能源汽车公司 @Ruibo Liu
+[比亚迪-人型机器人算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%AF%94%E4%BA%9A%E8%BF%AA-%E4%BA%BA%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250211)
 
 **[2025.2.11]**
 感谢方儿！我这边可能更偏学术一点～，欢迎大家和我一起探讨VLA好玩的工作，不论是基于视频模型，VLM的VLA，还是RL驱动下post training，亦或是不同构型上VLA（四足，人行），都可以联系我！我们可以一起去探求一下VLA的应用边界，推动community的发展～ @Lupi
