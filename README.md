@@ -17,8 +17,10 @@
 [清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211)
 
 **[2025.2.11]**
-[北大前沿计算中心-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E5%8C%97%E5%A4%A7%E5%89%8D%E6%B2%BF%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-PhD-20250211)
+[上交MVIG_RHOS实验室李永露卢策吾组-PhD/MPhil/RA/Engineer](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E4%B8%8A%E4%BA%A4MVIG_RHOS%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%9D%8E%E6%B0%B8%E9%9C%B2%E5%8D%A2%E7%AD%96%E5%90%BE%E7%BB%84-PhDorMPhilorRAorEngineer-20250211)
 
+**[2025.2.11]**
+[北大前沿计算中心-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E5%8C%97%E5%A4%A7%E5%89%8D%E6%B2%BF%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-PhD-20250211)
 
 **[2025.2.11]** 
 [极佳科技-具身智能机器人算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/%E6%9E%81%E4%BD%B3%E7%A7%91%E6%8A%80-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20240211)
