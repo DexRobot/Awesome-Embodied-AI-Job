@@ -3,8 +3,7 @@
 </h1>
 
 > 如果你对发布招聘、招生感兴趣，欢迎联系（请携带备注）：<br>李卓恒（项目发起人）：微信 StarRingSpace，陈天行：微信 TianxingChen_2002
-
-# <div align=center><img style="width: 30%" src="https://github.com/user-attachments/assets/036b7523-7141-4f4e-9269-40aea6657948"/></div>
+> 
 <p align="center"><strong>For applicants: </strong></p>
 <p align="center"><strong>Don't panic! You are much better than you think!</p>
 <p align="center">If you don't feel well, feel free to reach us ヾ(^▽^*))</p>
