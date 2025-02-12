@@ -2,6 +2,8 @@
 	Awesome-Embodied-AI-Job 具身智能招贤榜
 </h1>
 
+<div align=center><img src="https://github.com/user-attachments/assets/fdee913e-4c84-4b5b-8761-7b29cf1451ac"/></div>
+
 <p align="center"><strong>For applicants: </strong></p>
 <p align="center"><strong>Don't panic! You are much better than you think!</p>
 <p align="center">If you don't feel well, feel free to reach us ヾ(^▽^*))</p>
