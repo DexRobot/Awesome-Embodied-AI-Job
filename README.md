@@ -1,12 +1,16 @@
 # Awesome-Embodied-AI-Job
 
 <div align=center><img src="https://github.com/user-attachments/assets/036b7523-7141-4f4e-9269-40aea6657948"/></div>
-<p align="center"><strong>Don't panic! You are much better than you think!</strong></p>
-<p align="center"><strong>If you don't feel well, feel free to come to me!</strong></p>
-<p align="center">(wechat: StarRingSpace / email: zhuohengli@foxmail.com)</p>
+<p align="center"><strong>For applicants: </strong></p>
+<p align="center"><strong>Don't panic! You are much better than you think!</p>
+<p align="center">If you don't feel well, feel free to reach me ヾ(^▽^*))</p>
+<p align="center"><strong>For employers: </strong></p>
+<p align="center">Drop me a PR or issue, or contact me for posting your positions!</p>
 
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
+**[2025.2.12]**
+[星尘智能-具身智能算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E5%B0%98%E6%99%BA%E8%83%BD-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
 **[2025.2.11]**
 [OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211.md)
