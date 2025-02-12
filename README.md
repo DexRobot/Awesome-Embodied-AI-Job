@@ -3,7 +3,7 @@
 <div align=center><img src="https://github.com/user-attachments/assets/036b7523-7141-4f4e-9269-40aea6657948"/></div>
 <p align="center"><strong>For applicants: </strong></p>
 <p align="center"><strong>Don't panic! You are much better than you think!</p>
-<p align="center">If you don't feel well, feel free to reach me ヾ(^▽^*))</p>
+<p align="center">If you don't feel well, feel free to reach us ヾ(^▽^*))</p>
 <p align="center"><strong>For employers: </strong></p>
 <p align="center">Drop me a PR or issue, or contact me for posting your positions!</p>
 
