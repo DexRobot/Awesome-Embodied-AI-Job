@@ -10,6 +10,9 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.12]**
+[字节跳动机器人-实习/全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0or%E5%85%A8%E8%81%8C.md)
+
+**[2025.2.12]**
 [星尘智能-具身智能算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E5%B0%98%E6%99%BA%E8%83%BD-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
 **[2025.2.11]**
