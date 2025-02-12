@@ -42,7 +42,7 @@
 同招，陆奇投资的硅谷人形机器人初创公司，招具身智能算法工程师，同时找早期funding team成员。@Takuzen
 
 **[2025.2.11]**
-达摩院
+[阿里巴巴达摩院视觉技术实验室-VLA方向研究实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%E8%A7%86%E8%A7%89%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%E5%AE%A4-VLA%E6%96%B9%E5%90%91%E7%A0%94%E7%A9%B6%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
 **[2025.2.11]**
 [国家地方共建人形机器人创新中心/人形机器人(上海)有限公司-具身大模型实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E6%96%B9%E5%85%B1%E5%BB%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83or%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA(%E4%B8%8A%E6%B5%B7)%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-%E5%85%B7%E8%BA%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211.md)
