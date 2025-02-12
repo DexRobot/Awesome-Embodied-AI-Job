@@ -18,7 +18,7 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.13]**
-[Amazon Robotics-Intern/FullTime](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/AmazonRobotics-FullTimeorIntern-20250213.md)
+[Amazon Robotics-Intern/FullTime (US)](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/AmazonRobotics-FullTimeorIntern-20250213.md)
 
 **[2025.2.12]**
 [北京启物科技-机器人算法实习/校招-操作/导航/仿真](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8C%97%E4%BA%AC%E5%90%AF%E7%89%A9%E7%A7%91%E6%8A%80-%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0or%E6%A0%A1%E6%8B%9B-20250212.md)
