@@ -21,4 +21,4 @@
 • 充足的计算资源；
 • 优秀团队成员的合作机会；
 
-8. 申请方式：请将个人简历发送至guojiayan.giy@alibaba-inc.com
+8. 申请方式：请将个人简历发送至guojiayan.gjy@alibaba-inc.com
