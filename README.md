@@ -49,7 +49,7 @@
 [西湖大学机器智能实验室&西湖机器人王东林/张岳组-浙大联培PhD/RA/全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%26%E8%A5%BF%E6%B9%96%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%8B%E4%B8%9C%E6%9E%97or%E5%BC%A0%E5%B2%B3%E7%BB%84-%E6%B5%99%E5%A4%A7%E8%81%94%E5%9F%B9PhDorRAor%E5%85%A8%E8%81%8C.md)
 
 **[2025.2.11]** 
-同招，陆奇投资的硅谷人形机器人初创公司，招具身智能算法工程师，同时找早期funding team成员。
+待定
 
 **[2025.2.11]**
 [阿里巴巴达摩院视觉技术实验室-VLA方向研究实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%E8%A7%86%E8%A7%89%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%E5%AE%A4-VLA%E6%96%B9%E5%90%91%E7%A0%94%E7%A9%B6%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
