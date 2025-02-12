@@ -36,7 +36,7 @@
 [比亚迪-人型机器人算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%AF%94%E4%BA%9A%E8%BF%AA-%E4%BA%BA%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250211.md)
 
 **[2025.2.11]**
-西湖大学
+[西湖大学机器智能实验室&西湖机器人王东林/张岳组-浙大联培PhD/RA/全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%26%E8%A5%BF%E6%B9%96%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%8B%E4%B8%9C%E6%9E%97or%E5%BC%A0%E5%B2%B3%E7%BB%84-%E6%B5%99%E5%A4%A7%E8%81%94%E5%9F%B9PhDorRAor%E5%85%A8%E8%81%8C.md)
 
 **[2025.2.11]** 
 同招，陆奇投资的硅谷人形机器人初创公司，招具身智能算法工程师，同时找早期funding team成员。@Takuzen
