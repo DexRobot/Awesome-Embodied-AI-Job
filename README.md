@@ -2,13 +2,18 @@
 	Awesome-Embodied-AI-Job 具身智能招贤榜
 </h1>
 
-> 如果你对发布招聘、招生感兴趣，欢迎联系（请携带备注）：<br>李卓恒（项目发起人）：微信 StarRingSpace，陈天行：微信 TianxingChen_2002， 林-具身： 微信 mmls20240701
-> 
 <p align="center"><strong>For applicants: </strong></p>
 <p align="center"><strong>Don't panic! You are much better than you think!</p>
 <p align="center">If you don't feel well, feel free to reach us ヾ(^▽^*))</p>
 <p align="center"><strong>For employers: </strong></p>
 <p align="center">Drop me a PR or issue, or contact me for posting your positions!</p>
+
+> 如果你对发布招聘、招生感兴趣，欢迎联系（请携带备注）：
+> 
+> 李卓恒（项目发起人）：微信 StarRingSpace
+> 陈天行：微信 TianxingChen_2002
+> 林-具身： 微信 mmls20240701
+> 
 
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
