@@ -22,7 +22,7 @@
 [OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211.md)
 
 **[2025.2.11]**
-[香港大学MMLAB罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211.md)
+[香港大学MMLab罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211.md)
 
 **[2025.2.11]**
 [清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211.md)
