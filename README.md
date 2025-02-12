@@ -68,7 +68,7 @@
 **[2025.2.11]**
 [国家地方共建人形机器人创新中心/人形机器人(上海)有限公司-具身大模型实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E6%96%B9%E5%85%B1%E5%BB%BA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83or%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA(%E4%B8%8A%E6%B5%B7)%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-%E5%85%B7%E8%BA%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211.md)
 
-**[2025.2.11]** [地瓜机器人-具身智能算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%9C%B0%E7%93%9C%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211.md)
+**[2025.2.11]** [清华大学&地瓜机器人-具身智能算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%9C%B0%E7%93%9C%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211.md)
 
 **[2025.2.11]** [逐际动力-具身大模型算法+物理仿真+视频生成+世界模型+运动控制实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%80%90%E9%99%85%E5%8A%A8%E5%8A%9B-%E5%85%B7%E8%BA%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%2B%E7%89%A9%E7%90%86%E4%BB%BF%E7%9C%9F%2B%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%2B%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%2B%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211.md)
 
