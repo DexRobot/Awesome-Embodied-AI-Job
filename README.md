@@ -21,7 +21,7 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.13]**
-[千寻智能智能-具身业务算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD)
+[千寻智能-具身业务算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD)
 
 **[2025.2.13]**
 [艾欧智能-具身智能实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E8%89%BE%E6%AC%A7%E6%99%BA%E8%83%BD-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%AE%9E%E4%B9%A0%E7%94%9F-20250213.md)
