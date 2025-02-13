@@ -21,10 +21,13 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.13]**
+[千寻智能智能-具身业务算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD)
+
+**[2025.2.13]**
 [艾欧智能-具身智能实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E8%89%BE%E6%AC%A7%E6%99%BA%E8%83%BD-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%AE%9E%E4%B9%A0%E7%94%9F-20250213.md)
 
 **[2025.2.13]**
-[浙江人形机器人中心/校招/社招/实习-操作，直接联系微信：i-zhongxiang](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B5%99%E6%B1%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%AD%E5%BF%83%E6%93%8D%E4%BD%9C%E7%AE%97%E6%B3%95%E6%AD%A3%E5%BC%8F%E5%8F%8A%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98)
+[浙江人形机器人中心/校招/社招/实习-操作，直接联系微信：i-zhongxiang,地点：宁波](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B5%99%E6%B1%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%AD%E5%BF%83%E6%93%8D%E4%BD%9C%E7%AE%97%E6%B3%95%E6%AD%A3%E5%BC%8F%E5%8F%8A%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98)
 
 **[2025.2.13]**
 [Amazon Robotics-Intern/FullTime (US)](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/AmazonRobotics-FullTimeorIntern-20250213.md)
