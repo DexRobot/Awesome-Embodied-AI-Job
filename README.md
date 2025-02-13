@@ -19,8 +19,10 @@
 > 如果本身不知道自己适合哪份工作和职业发展困惑也可以找我聊一聊，林-具身： 微信 mmls20240701
 
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
+
 **[2025.2.13]**
 [浙江人形机器人中心/校招/社招/实习-操作] 直接联系：周忠祥微信：i-zhongxiang
+
 **[2025.2.13]**
 [Amazon Robotics-Intern/FullTime (US)](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/AmazonRobotics-FullTimeorIntern-20250213.md)
 
