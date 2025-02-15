@@ -21,6 +21,9 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.15]**
+[NVIDIA Principal Autonomous Vehicles Engineer - Mapping and Localization](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Nvidia-SLAM-20250215.md)
+
+**[2025.2.15]**
 [ETH Zurich & Tethys Robotics-Robotics Hardware Engineer](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/ETH-RoboticsHardwareEngineer-20250215.md)
 
 **[2025.2.14]**
