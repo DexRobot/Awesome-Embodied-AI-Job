@@ -21,7 +21,7 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.14]**
-[Robotics Lecture-University of Surrey](https://www.timeshighereducation.com/unijobs/listing/388129/lecturer-in-robotics/?LinkSource=PremiumListing)
+[University of Surrey-Robotics Lecturer](https://www.timeshighereducation.com/unijobs/listing/388129/lecturer-in-robotics/?LinkSource=PremiumListing)
 
 **[2025.2.13]**
 [千寻智能-具身业务算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD)
