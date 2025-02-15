@@ -1,5 +1,7 @@
 Link: https://www.linkedin.com/jobs/view/4037224220
 
+Location: Shanghai, China
+
 # About the job
 
 Intelligent machines powered by Artificial Intelligence computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error. Do you agree with us that this truly is an extraordinary time and that the era of AI has begun? We are proud that NVIDIA is playing a meaningful role in this development, where our hardware and software platforms power a large eco-system of partners who are working to deliver products, all over the world. In the space of self-driving cars, NVIDIA provides the DRIVE AGX hardware platform which runs our DRIVE software.
