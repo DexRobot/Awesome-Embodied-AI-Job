@@ -20,6 +20,27 @@
 
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
+**[Long term]**
+[OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211.md)
+
+**[Long-term]**
+[香港大学MMLab罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211.md)
+
+**[Long-term]**
+[清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211.md)
+
+**[Long-term]**
+[上交MVIG_RHOS实验室李永露卢策吾组-PhD/MPhil/RA/Engineer](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E4%B8%8A%E4%BA%A4MVIG_RHOS%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%9D%8E%E6%B0%B8%E9%9C%B2%E5%8D%A2%E7%AD%96%E5%90%BE%E7%BB%84-PhDorMPhilorRAorEngineer-20250211.md)
+
+**[Long-term]**
+[西湖大学机器智能实验室&西湖机器人王东林/张岳组-浙大联培PhD/RA/全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%26%E8%A5%BF%E6%B9%96%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%8B%E4%B8%9C%E6%9E%97or%E5%BC%A0%E5%B2%B3%E7%BB%84-%E6%B5%99%E5%A4%A7%E8%81%94%E5%9F%B9PhDorRAor%E5%85%A8%E8%81%8C.md)
+
+**[Long-term]**
+[NTU Pine Lab (南洋理工感知与具身智能实验室) - PhD/PostDoc/RA/Master](https://pine-lab-ntu.github.io/joinus.html)
+
+**[Long-term]**
+[智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
+
 **[2025.2.16]**
 [Toyata US - Intern - Multimodal Learning](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Toyota-MultiModalLearningIntern-20250216.md)
 
@@ -28,9 +49,6 @@
 
 **[2025.2.16]**
 [Samsung US - Embodied Intelligence Intern](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Samsung-EmbodiedIntelligenceIntern-20250216.md)
-
-**[Long-term]**
-[NTU Pine Lab (南洋理工感知与具身智能实验室) - PhD/PostDoc/RA/Master](https://pine-lab-ntu.github.io/joinus.html)
 
 **[2025.2.16]**
 [KTH - Research Engineer in Robotics, Perception and Learning](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/KTH-RoboticsPerceptionLearningEngineer-20250216.md)
@@ -74,18 +92,6 @@
 **[2025.2.12]**
 [星尘智能-具身智能算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E5%B0%98%E6%99%BA%E8%83%BD-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
-**[Long term]**
-[OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211.md)
-
-**[2025.2.11]**
-[香港大学MMLab罗平组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211.md)
-
-**[Long term]**
-[清华叉院/千寻智能高阳组-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211.md)
-
-**[2025.2.11]**
-[上交MVIG_RHOS实验室李永露卢策吾组-PhD/MPhil/RA/Engineer](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E4%B8%8A%E4%BA%A4MVIG_RHOS%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%9D%8E%E6%B0%B8%E9%9C%B2%E5%8D%A2%E7%AD%96%E5%90%BE%E7%BB%84-PhDorMPhilorRAorEngineer-20250211.md)
-
 **[2025.2.11]**
 [北大前沿计算中心-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8C%97%E5%A4%A7%E5%89%8D%E6%B2%BF%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-PhDorRA-20250211.md)
 
@@ -100,9 +106,6 @@
 
 **[2025.2.11]**
 [比亚迪-人型机器人算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%AF%94%E4%BA%9A%E8%BF%AA-%E4%BA%BA%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250211.md)
-
-**[2025.2.11]**
-[西湖大学机器智能实验室&西湖机器人王东林/张岳组-浙大联培PhD/RA/全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%26%E8%A5%BF%E6%B9%96%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%8B%E4%B8%9C%E6%9E%97or%E5%BC%A0%E5%B2%B3%E7%BB%84-%E6%B5%99%E5%A4%A7%E8%81%94%E5%9F%B9PhDorRAor%E5%85%A8%E8%81%8C.md)
 
 **[2025.2.11]** 
 待定
