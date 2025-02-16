@@ -21,6 +21,9 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.16]**
+[KTH - Research Engineer in Robotics, Perception and Learning](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/KTH-RoboticsPerceptionLearningEngineer-20250216.md)
+
+**[2025.2.16]**
 [KTH - PhD Social Robotics](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/KTH-PhD_SocialRobotics-20250216.md)
 
 **[2025.2.15]**
