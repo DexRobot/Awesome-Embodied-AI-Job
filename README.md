@@ -39,6 +39,9 @@
 [NTU Pine Lab (南洋理工感知与具身智能实验室) - PhD/PostDoc/RA/Master](https://pine-lab-ntu.github.io/joinus.html)
 
 **[Long-term]**
+[小米机器人 - 具身智能实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
+
+**[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.16]**
