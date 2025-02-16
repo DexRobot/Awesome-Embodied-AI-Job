@@ -21,7 +21,10 @@
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[2025.2.16]**
-[Waymo US - PhD Intern - Planning Selection](https://www.linkedin.com/jobs/view/4066469662)
+[Toyata US - Intern - Multimodal Learning](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Toyota-MultiModalLearningIntern-20250216.md)
+
+**[2025.2.16]**
+[Waymo US - PhD Intern - Planning Selection](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Waymo-PlanSelectionIntern-20250216.md)
 
 **[2025.2.16]**
 [Samsung US - Embodied Intelligence Intern](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Samsung-EmbodiedIntelligenceIntern-20250216.md)
