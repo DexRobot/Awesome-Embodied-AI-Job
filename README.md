@@ -20,6 +20,9 @@
 
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
+**[2025.2.16]**
+[Samsung US - Embodied Intelligence Intern](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Samsung-EmbodiedIntelligenceIntern-20250216.md)
+
 **[Long-term]**
 [NTU Pine Lab (南洋理工感知与具身智能实验室) - PhD/PostDoc/RA/Master](https://pine-lab-ntu.github.io/joinus.html)
 
