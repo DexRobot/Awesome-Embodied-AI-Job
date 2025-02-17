@@ -46,6 +46,9 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.2.17]**
+[NOETIX Robotics - 算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/NOETIX_Robotics-%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20250217.md)
+
 **[2025.2.16]**
 [Toyata US - Intern - Multimodal Learning](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/Toyota-MultiModalLearningIntern-20250216.md)
 
