@@ -47,6 +47,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.17]**
+[University of Nottingham - Robotics Manipulation Learning - PhD](https://www.luisfigueredo.com/join-us)
+
+**[2025.2.17]**
 [CVTE中央研究院机器人创新部 — 机器人具身智能算法实习生/全职](./2025/CVTE中央研究院机器人创新部)
 
 **[2025.2.17]**
