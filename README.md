@@ -12,13 +12,15 @@
 
 > 如果你对发布招聘、招生感兴趣，欢迎联系（请携带备注）：
 > 
-> 李卓恒（项目发起人）：微信 StarRingSpace
-> 陈天行：微信 TianxingChen_2002
+> 李卓恒（项目发起人）：微信 StarRingSpace<br>
+> 陈天行：微信 TianxingChen_2002<br>
 > 林-具身： 微信 mmls20240701
 
 > 如果本身不知道自己适合哪份工作和职业发展困惑也可以找我聊一聊，林-具身： 微信 mmls20240701
 
 🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
+
+**[Long term]**[中大(深圳)张瑞茂组-PhD/RA/Ms/博后](https://zhuanlan.zhihu.com/p/13173488322)
 
 **[Long term]**
 [OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211.md)
