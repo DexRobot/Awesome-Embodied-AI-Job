@@ -47,6 +47,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.18]**
+[Technical University of Munich - Space Robotics or GNC - PhD/PostDoc - Not recommended for Chinese students](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/TUM-SpaceRobotics-PhDorPostDoc-20250218.md)
+
+**[2025.2.18]**
 [VLAI未来动力 - 强化学习全职工程师/实习/远程](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/VLAI-RL-FullTimeorIntern-20250218.md)
 
 **[2025.2.17]**
