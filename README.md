@@ -47,6 +47,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.18]**
+Wageningen University (Netherlands) - [Robotics Sensor Fusion](https://www.linkedin.com/jobs/view/4123352033) and [Robotics Transferable skills](https://www.linkedin.com/jobs/view/4123349409) - PhD
+
+**[2025.2.18]**
 [Technical University of Munich - Space Robotics or GNC - PhD/PostDoc - Not recommended for Chinese students](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/TUM-SpaceRobotics-PhDorPostDoc-20250218.md)
 
 **[2025.2.18]**
