@@ -47,6 +47,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.19]**
+[香港大学MMLab罗平组 & 深圳星际光年 - 实习生/联培PhD](http://xhslink.com/a/6jm4H9dbfna6)
+
+**[2025.2.19]**
 [蚂蚁集团 - 上海浦东/上海黄埔/杭州西湖 - 人型机器人工程师 (请在猎聘搜索)](https://mp.weixin.qq.com/s/dIGlF1dWJHvuROL-M1HxcQ)
 
 **[2025.2.19]**
