@@ -47,6 +47,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.19]**
+[港科广 - 三维空间感知/运动估计/导航 - PhD](https://zhuanlan.zhihu.com/p/20776067972)
+
+**[2025.2.19]**
 [Amazon Robotics Germany - PostDoc Scientist](https://www.linkedin.com/jobs/view/3959794931)
 
 **[2025.2.19]**
