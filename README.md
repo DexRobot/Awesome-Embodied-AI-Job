@@ -47,6 +47,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.19]**
+[梅卡曼德机器人 - VLA全职工程师/实习](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%A2%85%E5%8D%A1%E6%9B%BC%E5%BE%B7%E6%9C%BA%E5%99%A8%E4%BA%BA-VLA%E5%85%A8%E8%81%8C%E5%B7%A5%E7%A8%8B%E5%B8%88or%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+**[2025.2.19]**
 [Washington State University - Robotics Planning - PhD/Master](https://slrepo.github.io/)
 
 **[2025.2.19]**
