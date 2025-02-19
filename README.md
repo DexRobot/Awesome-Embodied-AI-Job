@@ -46,6 +46,15 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.2.19]**
+[Amazon Robotics Germany - PostDoc Scientist](https://www.linkedin.com/jobs/view/3959794931)
+
+**[2025.2.19]**
+[Qualcomm - Automotive Engineering Internship](https://www.linkedin.com/jobs/view/4003550736)
+
+**[2025.2.19]**
+[University of Lincoln - Robotic Fleet Coordination - PostDoc / Research Associate](https://www.linkedin.com/jobs/view/4153828360)
+
 **[2025.2.18]**
 Wageningen University (Netherlands) - [Robotics Sensor Fusion](https://www.linkedin.com/jobs/view/4123352033) and [Robotics Transferable skills](https://www.linkedin.com/jobs/view/4123349409) - PhD
 
