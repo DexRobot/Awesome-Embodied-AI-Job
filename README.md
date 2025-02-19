@@ -47,7 +47,7 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.2.19]**
-[蚂蚁集团 - 上海浦东/上海黄埔/杭州西湖 - 人型机器人工程师](https://mp.weixin.qq.com/s/dIGlF1dWJHvuROL-M1HxcQ)
+[蚂蚁集团 - 上海浦东/上海黄埔/杭州西湖 - 人型机器人工程师 (请在猎聘搜索)](https://mp.weixin.qq.com/s/dIGlF1dWJHvuROL-M1HxcQ)
 
 **[2025.2.19]**
 [梅卡曼德机器人 - VLA全职工程师/实习](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%A2%85%E5%8D%A1%E6%9B%BC%E5%BE%B7%E6%9C%BA%E5%99%A8%E4%BA%BA-VLA%E5%85%A8%E8%81%8C%E5%B7%A5%E7%A8%8B%E5%B8%88or%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
