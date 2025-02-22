@@ -46,6 +46,12 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.2.22]**
+[The University of Western Australia - Lecturer in Automation and Robotics](https://external.jobs.uwa.edu.au/cw/en/job/518474/lecturer-automation-and-robotics)
+
+**[2025.2.22]**
+[University of Luxembourg - Research Associate in Space Robotics Manipulation](https://academicpositions.com/ad/university-of-luxembourg/2025/research-associate-in-robotics-manipulation/229928)
+
 **[2025.2.19]**
 [香港大学MMLab罗平组 & 深圳星际光年 - 实习生/联培PhD](http://xhslink.com/a/6jm4H9dbfna6)
 
