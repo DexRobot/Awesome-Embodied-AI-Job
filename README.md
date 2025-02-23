@@ -18,7 +18,9 @@
 
 > 如果本身不知道自己适合哪份工作和职业发展困惑也可以找我聊一聊，林-具身： 微信 mmls20240701
 
-🌱 Paper readings, blogs, robotics community: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
+📫 DeepTimber community: [DeepTimber-地瓜机器人社区](https://cn.developer.d-robotics.cc/forumList?id=156&title=Deeptimber)
+
+🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[Long term]** [中大(深圳)张瑞茂组-PhD/RA/Ms/博后](https://zhuanlan.zhihu.com/p/13173488322)
 
