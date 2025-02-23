@@ -1,5 +1,5 @@
 <h1 align="center">
-	DeepTimber 具身智能招贤榜
+	DeepTimber社区 具身智能招贤榜
 </h1>
 
 <div align=center><img src="https://github.com/user-attachments/assets/fdee913e-4c84-4b5b-8761-7b29cf1451ac" width="20%" /></div>
