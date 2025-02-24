@@ -22,6 +22,8 @@
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
+**[Long term]** [智源研究院-社招/校招/实习](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%99%BA%E6%BA%90%E7%A0%94%E7%A9%B6%E9%99%A2-20250224.md)
+
 **[Long term]** [中大(深圳)张瑞茂组-PhD/RA/Ms/博后](https://zhuanlan.zhihu.com/p/13173488322)
 
 **[Long term]**
