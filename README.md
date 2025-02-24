@@ -22,6 +22,9 @@
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
+**[Long-term]**
+[北京大学/宁波东方理工大学-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6or%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-PhDorRA-20250224.md)
+
 **[Long term]** [智源研究院-社招/校招/实习](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%99%BA%E6%BA%90%E7%A0%94%E7%A9%B6%E9%99%A2-20250224.md)
 
 **[Long term]** [中大(深圳)张瑞茂组-PhD/RA/Ms/博后](https://zhuanlan.zhihu.com/p/13173488322)
@@ -151,9 +154,6 @@ Wageningen University (Netherlands) - [Robotics Sensor Fusion](https://www.linke
 
 **[2025.2.12]**
 [星尘智能-具身智能算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E5%B0%98%E6%99%BA%E8%83%BD-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
-
-**[2025.2.11]**
-[北大前沿计算中心-PhD/RA](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%8C%97%E5%A4%A7%E5%89%8D%E6%B2%BF%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-PhDorRA-20250211.md)
 
 **[2025.2.11]** 
 [极佳科技-具身智能机器人算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%9E%81%E4%BD%B3%E7%A7%91%E6%8A%80-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211.md)
