@@ -53,6 +53,9 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.2.26]**
+[宁波东方理工大学 - 机器人与控制 - 博士后](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5-%E5%8D%9A%E5%90%8E-20250226.md)
+
 **[2025.2.23]**
 [微软亚洲研究院 - 具身智能算法实习生](https://mp.weixin.qq.com/s/YkrlPERr7h66ItCdf69lIg)
 
