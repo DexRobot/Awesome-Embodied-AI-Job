@@ -15,6 +15,7 @@
 > 李卓恒（项目发起人）：微信 StarRingSpace<br>
 > 陈天行：微信 TianxingChen_2002<br>
 > 林-具身： 微信 mmls20240701
+> Amanda: 微信 Amanda_jejeya
 
 > 如果本身不知道自己适合哪份工作和职业发展困惑也可以找我聊一聊，林-具身： 微信 mmls20240701
 
