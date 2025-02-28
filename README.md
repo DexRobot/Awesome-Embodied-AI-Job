@@ -60,6 +60,9 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.2.28]**
+[香港中文大学(深圳) - 医疗具身智能 - PhD/PostDoc](https://mp.weixin.qq.com/s/o_uifl8z64LFf8Zd4ONucA)
+
 **[2025.2.27]**
 [Eindhoven University of Technology - Mechanical Contact Information Processing of Soft and Large-area Robot Skin - PhD](https://jobs.tue.nl/en/vacancy/phd-mechanical-contact-information-processing-of-soft-and-largearea-robot-skin-1147911.html)
 
