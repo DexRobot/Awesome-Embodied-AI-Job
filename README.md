@@ -60,6 +60,18 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.3.2]**
+[CMU Robotics Institute - Biorobotics Lab - Research Associate](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Research-Associate-II---Robotics-Institute_2022962)
+
+**[2025.3.2]**
+[Luleå University of Technology (Sweden) - Robotics and AI - Senior Lecturer](https://euraxess.ec.europa.eu/jobs/320588)
+
+**[2025.3.2]**
+[NTU南洋理工 - insect-machine hybrid robot - Research Assistant](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Robotics---Mechatronics-_R00019928)
+
+**[2025.3.2]**
+[NTU南洋理工 - Robotics Research Associate](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Associate--Robotics-_R00019934)
+
 **[2025.2.28]**
 [香港中文大学(深圳) - 医疗具身智能 - PhD/PostDoc](https://mp.weixin.qq.com/s/o_uifl8z64LFf8Zd4ONucA)
 
