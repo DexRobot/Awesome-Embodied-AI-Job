@@ -61,10 +61,10 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.3.2]**
-[CMU Robotics Institute - Biorobotics Lab - Research Associate](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Research-Associate-II---Robotics-Institute_2022962)
+[光轮智能 - 模仿学习/强化学习算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%85%89%E8%BD%AE%E5%AE%9E%E4%B9%A0-20250302.md)
 
 **[2025.3.2]**
-[光轮智能 - 模仿学习/强化学习算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%85%89%E8%BD%AE%E5%AE%9E%E4%B9%A0-20250302.md)
+[CMU Robotics Institute - Biorobotics Lab - Research Associate](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Research-Associate-II---Robotics-Institute_2022962)
 
 **[2025.3.2]**
 [Luleå University of Technology (Sweden) - Robotics and AI - Senior Lecturer](https://euraxess.ec.europa.eu/jobs/320588)
