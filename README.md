@@ -60,6 +60,9 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.3.4]**
+[星尘智能 - 机器人交互研究实习生](https://mp.weixin.qq.com/s/VgNgL01TsL6f8E12Y5FKRA)
+
 **[2025.3.2]**
 [光轮智能 - 模仿学习/强化学习算法实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%85%89%E8%BD%AE%E5%AE%9E%E4%B9%A0-20250302.md)
 
