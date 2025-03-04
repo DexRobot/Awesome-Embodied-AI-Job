@@ -61,6 +61,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.3.4]**
+[长三角 - 某大厂 - 遥操作系统开发 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%81%A5%E6%93%8D%E4%BD%9C-20250304.md)
+
+**[2025.3.4]**
 [北京 - 某明星创业公司 - 大模型算法工程师 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%9F%90%E6%98%8E%E6%98%9F%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250304.md)
 
 **[2025.3.4]**
