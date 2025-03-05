@@ -24,6 +24,15 @@
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[Long-term]**
+[舞肌科技 - 研发岗位招聘](./2025/%E8%88%9E%E8%82%8C%E7%A7%91%E6%8A%80.md)
+
+**[Long-term]**
+[清华大学SSR丁文伯团队 - PhD/MPhil/RA](./2025/THU-WenboDing.md)
+
+**[Long-term]**
+[星海图 - VLA/算法/Infra/三维重建/机械 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E6%B5%B7%E5%9B%BE%E5%BC%80%E6%94%BE%E5%B2%97%E4%BD%8D.pdf)
+
+**[Long-term]**
 [星海图 - VLA/算法/Infra/三维重建/机械 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E6%B5%B7%E5%9B%BE%E5%BC%80%E6%94%BE%E5%B2%97%E4%BD%8D.pdf)
 
 **[Long-term]**
