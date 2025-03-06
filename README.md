@@ -67,6 +67,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.3.6]**
+[香港科技大学(广州)李昊昂组 - 具身智能(人形机器人/机械臂) - PhD](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B8%AF%E7%A7%91%E5%B9%BF%E6%9D%8E%E6%98%8A%E6%98%82%E8%80%81%E5%B8%88%E6%8B%9B%E6%94%B6%E4%B8%80%E5%90%8D%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%96%B9%E5%90%91%E5%8D%9A%E5%A3%AB.pdf)
+
+**[2025.3.6]**
 [西湖大学机器智能实验室 - 多模态大模型/强化学习/类脑智能/机器人本体 - RA/PostDoc](https://mp.weixin.qq.com/s/ZiGkItqmL2yaWgegX6m7PA)
 
 **[2025.3.6]**
