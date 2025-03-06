@@ -67,6 +67,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.3.6]**
+[Tampere University (Finland) - Robotics and AI - Postdoctoral Research Fellow](https://tuni.rekrytointi.com/paikat/?o=A_RJ&jgid=3&jid=2615)
+
+**[2025.3.6]**
 [复旦大学可信具身智能研究院 - 海外优青 - 博士后/助理教授/副教授/教授](https://mp.weixin.qq.com/s/0zP99sMFbPDCbLCwVdRUjw)
 
 **[2025.3.6]**
