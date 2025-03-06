@@ -67,6 +67,9 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.3.6]**
+[复旦大学可信具身智能研究院 - 海外优青 - 博士后/助理教授/副教授/教授](https://mp.weixin.qq.com/s/0zP99sMFbPDCbLCwVdRUjw)
+
+**[2025.3.6]**
 [17家国企/央企/研究院 - 具身智能招聘岗位汇总 - 具身智能之心(微信: AIDriver002)](https://mp.weixin.qq.com/s/_oAi4qMQqzmziidpNPOtQw)
 
 岗位包括:
