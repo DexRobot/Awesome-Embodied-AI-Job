@@ -69,6 +69,9 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.3.6]**
+[香港大学刘希慧组 - PhD/RA](https://mp.weixin.qq.com/s/79pwc4omjGRMipCxQI-Azg)
+
 **[2025.3.5]**
 [MIT - Soft and Micro Robotics - PhD](https://smrl.mit.edu/contact/opportunities/)
 
