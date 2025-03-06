@@ -22,4 +22,4 @@
 
 希望在实现AGI的道路上能遇到志同道合的伙伴，我们既能谈天说地把酒言欢，也能合力手摘机器人AGI的星辰
 
-欢迎联系：mi_lab@westlake.edu.cn; dingpx2015@gmail.com, liujinxin@wlrobo.com
+欢迎联系：dingpx2015@gmail.com
