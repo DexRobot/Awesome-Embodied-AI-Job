@@ -66,6 +66,12 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.3.9]**
+[NTU Energy Research Institute (南洋理工能源研究所) - Computer Science/Robotics/Automation - Research Engineer](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Engineer-II--Computer-Science-Robotics-Automation-_R00020028)
+
+**[2025.3.9]**
+[Loughborough University (UK) - Agri-Robotics - Research Associate](https://vacancies.lboro.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID%3d945465Z5Vx&WVID=5913100PrZ&LANG=USA)
+
 **[2025.3.8]**
 [Microsoft (Redmond, Washington, US) - Spatial AI - Research Intern](https://jobs.careers.microsoft.com/global/en/job/1779678)
 
