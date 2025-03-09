@@ -66,6 +66,15 @@
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
+**[2025.3.10]**
+[ETH - Stretchable Optical Skin - Postdoc](https://www.jobs.ethz.ch/job/view/JOPG_ethz_SmKuYXlAO50XLZhzpT)
+
+**[2025.3.10]**
+[Singapore Institute of Technology - Assistant Professor / Associate Professor in Robotics](https://careers.singaporetech.edu.sg/en/job/498744/assistant-professor-associate-professor-in-robotics)
+
+**[2025.3.10]**
+[Eindhoven University of Technology (Netherlands) - Contact Information Processing of Soft and Large-area Robot Skin - PhD](https://jobs.tue.nl/en/vacancy/phd-mechanical-contact-information-processing-of-soft-and-largearea-robot-skin-1147911.html)
+
 **[2025.3.9]**
 [NTU Energy Research Institute (南洋理工能源研究所) - Computer Science/Robotics/Automation - Research Engineer](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Engineer-II--Computer-Science-Robotics-Automation-_R00020028)
 
