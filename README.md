@@ -27,6 +27,9 @@
 [舞肌科技 - 研发岗位招聘](./2025/%E8%88%9E%E8%82%8C%E7%A7%91%E6%8A%80.md)
 
 **[Long-term]**
+[浙江人形机器人中心/校招/社招/实习，直接联系微信：i-zhongxiang,地点：宁波](https://mp.weixin.qq.com/s/ogQcUXd9IIioAUgpA7AmsA)
+
+**[Long-term]**
 [清华大学SSR丁文伯团队 - PhD/MPhil/RA](./2025/THU-WenboDing.md)
 
 **[Long-term]**
@@ -65,6 +68,9 @@
 
 **[Long-term]**
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
+
+**[2025.3.10]**
+[星尘智能2025招聘开启](https://mp.weixin.qq.com/s/h4l9rVWWgc0LqcMMoP6RJg)
 
 **[2025.3.10]**
 [ETH - Stretchable Optical Skin - Postdoc](https://www.jobs.ethz.ch/job/view/JOPG_ethz_SmKuYXlAO50XLZhzpT)
@@ -251,9 +257,6 @@ Wageningen University (Netherlands) - [Robotics Sensor Fusion](https://www.linke
 
 **[2025.2.13]**
 [艾欧智能-具身智能实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E8%89%BE%E6%AC%A7%E6%99%BA%E8%83%BD-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%AE%9E%E4%B9%A0%E7%94%9F-20250213.md)
-
-**[2025.2.13]**
-[浙江人形机器人中心/校招/社招/实习-操作，直接联系微信：i-zhongxiang,地点：宁波](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B5%99%E6%B1%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%AD%E5%BF%83%E6%93%8D%E4%BD%9C%E7%AE%97%E6%B3%95%E6%AD%A3%E5%BC%8F%E5%8F%8A%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98)
 
 **[2025.2.13]**
 [Amazon Robotics-Intern/FullTime](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/AmazonRobotics-FullTimeorIntern-20250213.md)
