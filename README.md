@@ -70,7 +70,7 @@
 [智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
 
 **[2025.3.10]**
-[国家地方共建人形机器人创新中心/人形机器人(上海)有限公司 - 2025校招/社招/实习集中招聘](https://mp.weixin.qq.com/s/dFxzt-eMLKZP-B8vIuvWCw)
+[国家地方共建人形机器人创新中心/人形机器人(上海)有限公司 - 2025校招/社招集中招聘](https://mp.weixin.qq.com/s/dFxzt-eMLKZP-B8vIuvWCw)
 
 **[2025.3.10]**
 [星尘智能 - 2025校招/社招/实习集中招聘](https://mp.weixin.qq.com/s/h4l9rVWWgc0LqcMMoP6RJg)
