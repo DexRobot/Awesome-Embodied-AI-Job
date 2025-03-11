@@ -70,7 +70,7 @@
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
 **[2025.3.11]**
-[香港科技大学(广州) - 强化学习/仿生机器人运动控制/具身智能芯片 - PhD](https://mp.weixin.qq.com/s/0LjbmWkL_jlhncK1TdA6xw)
+[香港科技大学(广州)许人镜组 - 强化学习/仿生机器人运动控制/具身智能芯片 - PhD](https://mp.weixin.qq.com/s/0LjbmWkL_jlhncK1TdA6xw)
 
 **[2025.3.11]**
 某大厂(北京) - 运动控制/具身智能/大模型方向 - 海外人才招聘(校招/社招) - 微信联系Amanda_jejeya
