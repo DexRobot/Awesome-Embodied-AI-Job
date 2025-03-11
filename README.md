@@ -24,6 +24,9 @@
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
 **[Long-term]**
+[智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
+
+**[Long-term]**
 [舞肌科技 - 研发岗位招聘](./2025/%E8%88%9E%E8%82%8C%E7%A7%91%E6%8A%80.md)
 
 **[Long-term]**
@@ -64,10 +67,10 @@
 [NTU Pine Lab (南洋理工感知与具身智能实验室) - PhD/PostDoc/RA/Master](https://pine-lab-ntu.github.io/joinus.html)
 
 **[Long-term]**
-[小米机器人 - 具身智能实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
+[小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
-**[Long-term]**
-[智元机器人 - 具身智能实习生](https://agirobot.jobs.feishu.cn/internrecruitment/)
+**[2025.3.11]**
+[智元机器人 - 多模态大模型/空间智能算法/具身算法/强化学习算法 - 研究员/工程师/实习生](https://mp.weixin.qq.com/s/cMr5_svFKDlsx9wAr3aJ9w)
 
 **[2025.3.10]**
 [新松机器人(沈阳) - 视觉算法工程师/具身智能专家/控制算法工程师 - 社招](https://mp.weixin.qq.com/s/NVIJywVb623aW8hjGgZ17A)
