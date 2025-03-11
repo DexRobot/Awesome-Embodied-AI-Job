@@ -70,6 +70,9 @@
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
 **[2025.3.11]**
+[松应科技(上海/深圳/北京) - 3D仿真引擎开发/强化学习/数据系统/系统测试和解决方案/产品经理 - 全职](https://mp.weixin.qq.com/s/NH4vp1cBRGFsEcqn59UrJA)
+
+**[2025.3.11]**
 [智元机器人 - 多模态大模型/空间智能算法/具身算法/强化学习算法 - 研究员/工程师/实习生](https://mp.weixin.qq.com/s/cMr5_svFKDlsx9wAr3aJ9w)
 
 **[2025.3.10]**
