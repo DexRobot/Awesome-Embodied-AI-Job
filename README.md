@@ -70,6 +70,9 @@
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
 **[2025.3.12]**
+[Qualcomm Netherlands - Reinforcement learning/MPC/differentiable world models - Intern](https://www.linkedin.com/jobs/view/4012321001)
+
+**[2025.3.12]**
 [Microsoft UK (Cambridge) - Robotics - Intern](https://www.linkedin.com/jobs/view/4182072598)
 
 **[2025.3.12]**
