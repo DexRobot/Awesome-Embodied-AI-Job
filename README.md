@@ -70,6 +70,9 @@
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
 **[2025.3.12]**
+[深圳南山 - 自动驾驶数据闭环专家 - 社招](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1-%E6%95%B0%E6%8D%AE%E9%97%AD%E7%8E%AF%E4%B8%93%E5%AE%B6-20250312.md)
+
+**[2025.3.12]**
 [某深圳国企(深圳湾科技生态园) - 具身智能AI算法总监/副总监(年薪百万+)](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E5%9B%BD%E4%BC%81-AI%E7%AE%97%E6%B3%95%E6%80%BB%E7%9B%91-20250312.md)
 
 **[2025.3.11]**
