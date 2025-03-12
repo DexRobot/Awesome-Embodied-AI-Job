@@ -70,6 +70,9 @@
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
 **[2025.3.12]**
+[某大厂(深圳/上海/北京) - 人形机器人数据系统工程师 - 对标华为18级-19级 - 社招](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E6%9F%90%E5%A4%A7%E5%8E%82-%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88-20250312.md)
+
+**[2025.3.12]**
 [克莱姆森大学(美国)Luyang Zhao组 - 机器人学 - PhD](https://mp.weixin.qq.com/s/zsb1-sTmH6P-0nCecHVwzw)
 
 **[2025.3.12]**
