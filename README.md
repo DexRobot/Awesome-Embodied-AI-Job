@@ -15,8 +15,6 @@
 > 李卓恒（项目发起人）：微信 StarRingSpace<br>
 > 陈天行：微信 TianxingChen_2002<br>
 > 林-具身： 微信 mmls20240701<br>
-> Amanda: 微信 Amanda_jejeya<br>
-> Kay: 微信 Milky_wKay<br>
 
 > 如果本身不知道自己适合哪份工作和职业发展困惑也可以找我聊一聊，林-具身： 微信 mmls20240701
 
@@ -71,16 +69,10 @@
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
 **[2025.3.12]**
-国家队大模型公司(北京) - 具身算法需求(定位/感知/运动控制/RL等) - 全职 - 微信联系Milky_wKay
-
-**[2025.3.12]**
 [Qualcomm Netherlands - Reinforcement learning/MPC/differentiable world models - Intern](https://www.linkedin.com/jobs/view/4012321001)
 
 **[2025.3.12]**
 [Microsoft UK (Cambridge) - Robotics - Intern](https://www.linkedin.com/jobs/view/4182072598)
-
-**[2025.3.12]**
-[某大厂(深圳/上海/北京) - 人形机器人数据系统工程师 - 对标华为18级-19级 - 社招](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E6%9F%90%E5%A4%A7%E5%8E%82-%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88-20250312.md)
 
 **[2025.3.12]**
 [克莱姆森大学(美国)Luyang Zhao组 - 机器人学 - PhD](https://mp.weixin.qq.com/s/zsb1-sTmH6P-0nCecHVwzw)
@@ -91,8 +83,6 @@
 **[2025.3.12]**
 [深圳南山 - 自动驾驶数据闭环专家 - 社招](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1-%E6%95%B0%E6%8D%AE%E9%97%AD%E7%8E%AF%E4%B8%93%E5%AE%B6-20250312.md)
 
-**[2025.3.12]**
-[某深圳国企(深圳湾科技生态园) - 具身智能AI算法总监/副总监(年薪百万+)](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E5%9B%BD%E4%BC%81-AI%E7%AE%97%E6%B3%95%E6%80%BB%E7%9B%91-20250312.md)
 
 **[2025.3.11]**
 [IAV GmbH (Germany) - Autonomous Driving: Path Planning in Unstructured Environments - Internship](https://www.linkedin.com/jobs/view/4181798832)
@@ -102,9 +92,6 @@
 
 **[2025.3.11]**
 [香港科技大学(广州)许人镜组 - 强化学习/仿生机器人运动控制/具身智能芯片 - PhD](https://mp.weixin.qq.com/s/0LjbmWkL_jlhncK1TdA6xw)
-
-**[2025.3.11]**
-某大厂(北京) - 运动控制/具身智能/大模型方向 - 海外人才招聘(校招/社招) - 微信联系Amanda_jejeya
 
 **[2025.3.11]**
 [松应科技(上海/深圳/北京) - 3D仿真引擎开发/强化学习/数据系统/系统测试和解决方案/产品经理 - 全职](https://mp.weixin.qq.com/s/NH4vp1cBRGFsEcqn59UrJA)
@@ -180,24 +167,6 @@
 
 **[2025.3.5]**
 [MIT - Soft and Micro Robotics - PhD](https://smrl.mit.edu/contact/opportunities/)
-
-**[2025.3.4]**
-[北京/上海/深圳 - 某独角兽 - 强化学习工程师 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88-20250304.md)
-
-**[2025.3.4]**
-[长三角 - 某研究院 - 机器人操作算法工程师 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250304.md)
-
-**[2025.3.4]**
-[深圳 - 某独角兽 - 仿真算法工程师 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E4%BB%BF%E7%9C%9F%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250304.md)
-
-**[2025.3.4]**
-[长三角 - 某大厂 - 遥操作系统开发 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%81%A5%E6%93%8D%E4%BD%9C-20250304.md)
-
-**[2025.3.4]**
-[北京 - 某明星创业公司 - 大模型算法工程师 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%9F%90%E6%98%8E%E6%98%9F%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250304.md)
-
-**[2025.3.4]**
-[北京 - 某明星创业公司 - 电机控制 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%9F%90%E6%98%8E%E6%98%9F%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8-%E7%94%B5%E6%9C%BA%E6%8E%A7%E5%88%B6-20250304.md)
 
 **[2025.3.4]**
 [星尘智能 - 机器人交互研究实习生](https://mp.weixin.qq.com/s/VgNgL01TsL6f8E12Y5FKRA)
@@ -336,9 +305,6 @@ Wageningen University (Netherlands) - [Robotics Sensor Fusion](https://www.linke
 
 **[2025.2.11]**
 [比亚迪-人型机器人算法工程师](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%AF%94%E4%BA%9A%E8%BF%AA-%E4%BA%BA%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-20250211.md)
-
-**[2025.2.11]** 
-待定
 
 **[2025.2.11]**
 [阿里巴巴达摩院视觉技术实验室-VLA方向研究实习生](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%91%A9%E9%99%A2%E8%A7%86%E8%A7%89%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%E5%AE%A4-VLA%E6%96%B9%E5%90%91%E7%A0%94%E7%A9%B6%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
