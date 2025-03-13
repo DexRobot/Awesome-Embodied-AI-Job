@@ -77,13 +77,6 @@
 **[2025.3.12]**
 [克莱姆森大学(美国)Luyang Zhao组 - 机器人学 - PhD](https://mp.weixin.qq.com/s/zsb1-sTmH6P-0nCecHVwzw)
 
-**[2025.3.12]**
-[深圳南山 - BEV/OCC感知算法专家 - 社招](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1-BEVorOCC%E6%84%9F%E7%9F%A5%E7%AE%97%E6%B3%95%E4%B8%93%E5%AE%B6-20250312.md)
-
-**[2025.3.12]**
-[深圳南山 - 自动驾驶数据闭环专家 - 社招](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1-%E6%95%B0%E6%8D%AE%E9%97%AD%E7%8E%AF%E4%B8%93%E5%AE%B6-20250312.md)
-
-
 **[2025.3.11]**
 [IAV GmbH (Germany) - Autonomous Driving: Path Planning in Unstructured Environments - Internship](https://www.linkedin.com/jobs/view/4181798832)
 
