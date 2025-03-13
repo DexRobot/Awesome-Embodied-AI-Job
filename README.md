@@ -16,6 +16,7 @@
 > 陈天行：微信 TianxingChen_2002<br>
 > 林-具身： 微信 mmls20240701<br>
 > Amanda: 微信 Amanda_jejeya
+> Kay: 微信 Milky_wKay
 
 > 如果本身不知道自己适合哪份工作和职业发展困惑也可以找我聊一聊，林-具身： 微信 mmls20240701
 
@@ -68,6 +69,9 @@
 
 **[Long-term]**
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
+
+**[2025.3.12]**
+[国家队大模型公司(北京) - 具身算法需求(定位/感知/运动控制/RL等) - 全职 - 微信联系Milky_wKay]
 
 **[2025.3.12]**
 [Qualcomm Netherlands - Reinforcement learning/MPC/differentiable world models - Intern](https://www.linkedin.com/jobs/view/4012321001)
