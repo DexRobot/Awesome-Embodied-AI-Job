@@ -80,7 +80,7 @@
 **[2025.3.15]**
 [Huawei (Munich, Germany) - Robot Learning - Industrial PhD](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/5676573-industrial-phd-program-robot-learning-m-f-d)
 
-**For Chinese students: Please take care of the visa check on national security**
+*Chinese students may be rejected when applying for a visa because of Huawei & national security issues.*
 
 **[2025.3.15]**
 [Hyundai (US) - Autonomous Driving - Intern](https://www.linkedin.com/jobs/view/4138459399)
