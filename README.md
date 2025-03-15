@@ -68,6 +68,23 @@
 **[Long-term]**
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
+**[2025.3.15]**
+[Chalmers University of Technology (Sweden) - Dynamics and Control of Legged Robots - PhD](https://www.linkedin.com/jobs/view/4182570693)
+
+**[2025.3.15]**
+[Technical University of Denmark (DTU) - Active Perception and End-to-End AI-driven Intuitive Inspection for Autonomous Aerial Robots - PhD](https://www.linkedin.com/jobs/view/4183845195)
+
+**[2025.3.15]**
+[Amazon Robotics (Germany) - Motion Planning & Control - Applied Scientist]
+
+**[2025.3.15]**
+[Huawei (Munich, Germany) - Robot Learning - Industrial PhD](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/5676573-industrial-phd-program-robot-learning-m-f-d)
+
+**For Chinese students: Please take care of the visa check on national security**
+
+**[2025.3.15]**
+[Hyundai (US) - Autonomous Driving - Intern](https://www.linkedin.com/jobs/view/4138459399)
+
 **[2025.3.12]**
 [Qualcomm Netherlands - Reinforcement learning/MPC/differentiable world models - Intern](https://www.linkedin.com/jobs/view/4012321001)
 
