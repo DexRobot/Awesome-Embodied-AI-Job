@@ -71,7 +71,7 @@
 **[2025.3.15]**
 [ETH Artificial Visual Intelligence group (AVI) - Computer Vision for Embodied AI - PhD](https://www.jobs.ethz.ch/job/view/JOPG_ethz_mVgRhnMjYZ6si8gZzQ?mw_source=academicpositions)
 
-*ETH has strong restrictions on Chinese PhD candidates.*
+*ETH has strong restrictions on incoming Chinese PhD candidates.*
 
 **[2025.3.15]**
 [Chalmers University of Technology (Sweden) - Dynamics and Control of Legged Robots - PhD](https://www.linkedin.com/jobs/view/4182570693)
