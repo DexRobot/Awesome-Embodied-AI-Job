@@ -75,7 +75,7 @@
 [Technical University of Denmark (DTU) - Active Perception and End-to-End AI-driven Intuitive Inspection for Autonomous Aerial Robots - PhD](https://www.linkedin.com/jobs/view/4183845195)
 
 **[2025.3.15]**
-[Amazon Robotics (Germany) - Motion Planning & Control - Applied Scientist]
+[Amazon Robotics (Germany) - Motion Planning & Control - Applied Scientist](https://www.linkedin.com/jobs/view/4158398419)
 
 **[2025.3.15]**
 [Huawei (Munich, Germany) - Robot Learning - Industrial PhD](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/5676573-industrial-phd-program-robot-learning-m-f-d)
