@@ -22,7 +22,7 @@
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
-⚡ [Github仓库](https://github.com/StarCycle/Awesome-Embodied-AI-Job), [国内镜像仓库](https://gitee.com/lzhnssc/awesome-embodied-ai-job-mirror)
+⚡ [Github仓库](https://github.com/StarCycle/Awesome-Embodied-AI-Job), [Gitee国内镜像仓库](https://gitee.com/lzhnssc/awesome-embodied-ai-job-mirror)
 
 **[Long-term]**
 [智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
