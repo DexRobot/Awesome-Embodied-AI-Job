@@ -68,6 +68,18 @@
 **[Long-term]**
 [小米机器人 - 长期招聘链接](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
+**[2025.3.16]**
+[New York University Abu Dhabi (NYUAD) - Automation, Robotics, and AI - Research Instrumentation Scientist](https://apply.interfolio.com/162600)
+
+**[2025.3.16]**
+[西交利物浦大学(苏州) - 机器人学院 - R1研究员](https://euraxess.ec.europa.eu/jobs/325116)
+
+**[2025.3.16]**
+[Cranfield University (UK) - Robust Motion Planning for Hopping Robots - PhD (self-funded, 3-year)](https://www.cranfield.ac.uk/research/phd/aero-robust-motion-planning-for-hopping-robots)
+
+**[2025.3.16]**
+[Princeton University - Construction Robot - PostDoc](https://main.hercjobs.org/jobs/21156156/postdoctoral-research-associate-construction-robotics)
+
 **[2025.3.15]**
 [Cambridge University (Rika Antonova team) - robot learning / robot hardware design / reinforcement learning - Fully-funded PhD](https://x.com/contactrika/status/1896242431043252621)
 
