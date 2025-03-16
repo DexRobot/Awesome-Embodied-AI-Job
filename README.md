@@ -72,6 +72,15 @@
 **[Long-term]**
 [小米机器人 - 长期招聘链接](./2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
+**[Long-term]**
+[Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
+
+**[2025.3.16]**
+OpenAI (US) - FullTime:
+- [Mechanical Architect, Robotics](https://jobs.ashbyhq.com/openai/54ed4e42-1a5f-4fa2-a21c-3cc4e367d559/application)
+- [Research Engineer, Robotics](https://jobs.ashbyhq.com/openai/0e0d553a-2485-4d38-a064-a5a4f1c52802/application)
+- [Systems Integration Electrical Engineer, Robotics](https://jobs.ashbyhq.com/openai/15f93356-721a-4c69-87c3-26f07a1fcec9/application)
+
 **[2025.3.16]**
 [中国人民大学信息学院AIM3实验室 - 具身智能/多模态 - 博士/硕士/访问学生](https://mp.weixin.qq.com/s/bJk8dRRv-q_DTWmIRsgSDQ)
 
