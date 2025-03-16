@@ -73,6 +73,9 @@
 [小米机器人 - 长期招聘链接](./2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
 **[2025.3.16]**
+[中国人民大学信息学院AIM3实验室 - 具身智能/多模态 - 博士/硕士/访问学生](https://mp.weixin.qq.com/s/bJk8dRRv-q_DTWmIRsgSDQ)
+
+**[2025.3.16]**
 [Georgia Tech Lunar Lab - Robot Learning - PostDoc/PhD/Master/Undergraduate](https://sites.gatech.edu/lunarlab/opportunities/)
 
 **[2025.3.16]**
