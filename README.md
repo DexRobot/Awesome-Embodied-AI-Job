@@ -76,6 +76,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.16]**
+[南京大学龙霄潇组 - 3D生成/自动驾驶世界模型/3D视觉 - Master/PhD/Visiting students](https://zhuanlan.zhihu.com/p/30620630926?utm_campaign=shareopn&utm_medium=social&utm_psn=1884701966548067038&utm_source=wechat_timeline&s_r=0)
+
+**[2025.3.16]**
 OpenAI (US) - FullTime:
 - [Mechanical Architect, Robotics](https://jobs.ashbyhq.com/openai/54ed4e42-1a5f-4fa2-a21c-3cc4e367d559/application)
 - [Research Engineer, Robotics](https://jobs.ashbyhq.com/openai/0e0d553a-2485-4d38-a064-a5a4f1c52802/application)
