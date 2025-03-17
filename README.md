@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.17]**
+[北京通用人工智能研究院(BIGAI)机器人团队 - 跨本体操作策略/异构多机任务规划 - 实习](https://www.xiaohongshu.com/discovery/item/67b9e380000000000d0154e8?source=webshare&xhsshare=pc_web&xsec_token=CBsFyqMWlyiVjBJNPk4LW-8mI6lkh25a8C4l_9_CWugiU=&xsec_source=pc_share)
+
+**[2025.3.17]**
 [小鹏机器人 - 后训练/RL/reasoning/agentic llm/world model/humanoid vla/机器人仿真 - 全职/实习](https://www.xiaohongshu.com/discovery/item/67c74368000000000603da60?source=webshare&xhsshare=pc_web&xsec_token=CBiVSAcABL_cwIY-wR2spqs7bUMzbf8VppS-3VU4cqBYg=&xsec_source=pc_share)
 
 **[2025.3.17]**
