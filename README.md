@@ -75,6 +75,9 @@
 **[Long-term]**
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
+**[2025.3.17]**
+[南京大学单彩峰司晨阳组/南洋理工(NTU)刘子纬组 - 具身视觉理解 - 联培博士生/硕士生/实习生](https://mp.weixin.qq.com/s/KLomEqMPZDoQ5Vjfm1NZtw)
+
 **[2025.3.16]**
 [南京大学龙霄潇组 - 3D生成/自动驾驶世界模型/3D视觉 - Master/PhD/Visiting students](https://zhuanlan.zhihu.com/p/30620630926?utm_campaign=shareopn&utm_medium=social&utm_psn=1884701966548067038&utm_source=wechat_timeline&s_r=0)
 
