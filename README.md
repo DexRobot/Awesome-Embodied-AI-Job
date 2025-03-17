@@ -27,6 +27,9 @@
 🌟 Give us some stars on Github (ฅ>ω<*ฅ)
 
 **[Long-term]**
+[上海创智学院全球引进青年教师！](https://mp.weixin.qq.com/s/1w-6JicmTtlyAUeOHqS0Kw)
+
+**[Long-term]**
 [智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
 
 **[Long-term]**
