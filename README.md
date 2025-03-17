@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.17]**
+[自变量机器人(深圳/北京) - 多模态大模型/数据筛选算法/运动控制 - 全职](https://www.xiaohongshu.com/explore/67d813f1000000001b025e81?app_platform=ios&app_version=8.67&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBsR-UCSZN82XnOAlSWHd9S-F5SB0ej-9LFwVh4kXfaw0=&author_share=1&xhsshare=WeixinSession&shareRedId=ODg5NDQ7Sjw2NzUyOTgwNjg0OTk7OUo_&apptime=1742215111&share_id=1a34bc88dc1c4f04a176662389720bd5)
+
+**[2025.3.17]**
 [University of Sheffield - Deep Reinforcement Learning with Interactive Human Feedback - PhD](https://www.findaphd.com/phds/project/improving-deep-reinforcement-learning-through-interactive-human-feedback/?p183214)
 
 **[2025.3.17]**
