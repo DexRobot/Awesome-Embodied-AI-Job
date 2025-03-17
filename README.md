@@ -79,6 +79,12 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.17]**
+[小鹏机器人 - 后训练/RL/reasoning/agentic llm/world model/humanoid vla/机器人仿真 - 全职/实习](https://www.xiaohongshu.com/discovery/item/67c74368000000000603da60?source=webshare&xhsshare=pc_web&xsec_token=CBiVSAcABL_cwIY-wR2spqs7bUMzbf8VppS-3VU4cqBYg=&xsec_source=pc_share)
+
+**[2025.3.17]**
+[清华大学深研院王智组 - 三维视觉与具身智能 - 实习生](https://www.xiaohongshu.com/discovery/item/67ceaa27000000000d017929?source=webshare&xhsshare=pc_web&xsec_token=ABdatWdPz7hI0rmToJXvUw39CsAbMVUT3G3uWeuazCIRg=&xsec_source=pc_share)
+
+**[2025.3.17]**
 [清华大学脑与智能实验室 - 机器人硬件/VLA训练和部署/人机交互与心智理论 - 实习](https://www.xiaohongshu.com/discovery/item/67cbd8490000000029033884?source=webshare&xhsshare=pc_web&xsec_token=ABJqKheqGbf4BWMiCZ_v_-vSeQt36ce2Gz9xyXTcpQFRo=&xsec_source=pc_share)
 
 **[2025.3.17]**
