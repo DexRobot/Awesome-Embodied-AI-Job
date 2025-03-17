@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.17]**
+[西交利物浦大学(苏州) - 多模态脑机接口大模型 - 博士](https://mp.weixin.qq.com/s/U5lloOlEUZKc9Yg9yYhuJw)
+
+**[2025.3.17]**
 [南京大学单彩峰司晨阳组/南洋理工(NTU)刘子纬组 - 具身视觉理解 - 联培博士生/硕士生/实习生](https://mp.weixin.qq.com/s/KLomEqMPZDoQ5Vjfm1NZtw)
 
 **[2025.3.16]**
