@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.17]**
+[University of Sheffield - Deep Reinforcement Learning with Interactive Human Feedback - PhD](https://www.findaphd.com/phds/project/improving-deep-reinforcement-learning-through-interactive-human-feedback/?p183214)
+
+**[2025.3.17]**
 [西交利物浦大学(苏州) - 多模态脑机接口大模型 - 博士](https://mp.weixin.qq.com/s/U5lloOlEUZKc9Yg9yYhuJw)
 
 **[2025.3.17]**
