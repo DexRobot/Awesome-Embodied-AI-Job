@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.20]**
+[小马智行2025校招](https://mp.weixin.qq.com/s/nraZpFuJQ5-StBmkS0B-zw)
+
+**[2025.3.20]**
 [地平线(北京/上海/南京)2026春季实习生招聘](https://mp.weixin.qq.com/s/G5nhPthN4rRW5YDwzF1FWg)
 
 **[2025.3.17]**
