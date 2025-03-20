@@ -78,6 +78,9 @@
 **[Long-term]**
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
+**[2025.3.20]**
+[地平线(北京/上海/南京)2026春季实习生招聘](https://mp.weixin.qq.com/s/G5nhPthN4rRW5YDwzF1FWg)
+
 **[2025.3.17]**
 [北京通用人工智能研究院(BIGAI)机器人团队 - 跨本体操作策略/异构多机任务规划 - 实习](https://www.xiaohongshu.com/discovery/item/67b9e380000000000d0154e8?source=webshare&xhsshare=pc_web&xsec_token=CBsFyqMWlyiVjBJNPk4LW-8mI6lkh25a8C4l_9_CWugiU=&xsec_source=pc_share)
 
