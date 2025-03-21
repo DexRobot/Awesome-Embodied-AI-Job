@@ -78,6 +78,9 @@
 **[Long-term]**
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
+**[2025.3.21]**
+[KTH Royal Institute of Technology - Research engineers within Robotics](https://kth.varbi.com/en/what:job/jobID:809259/type:job/where:51/apply:1)
+
 **[2025.3.20]**
 [小马智行2025校招](https://mp.weixin.qq.com/s/nraZpFuJQ5-StBmkS0B-zw)
 
