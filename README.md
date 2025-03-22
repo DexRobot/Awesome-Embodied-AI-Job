@@ -78,6 +78,9 @@
 **[Long-term]**
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
+**[2025.3.22]**
+[南京大学智能科学与技术学院 - 具身智能 - 副教授/助理教授](https://mp.weixin.qq.com/s/8qC9N1cXTI6oiffeVB-32w)
+
 **[2025.3.21]**
 [KTH Royal Institute of Technology - Research engineers within Robotics](https://kth.varbi.com/en/what:job/jobID:809259/type:job/where:51/apply:1)
 
