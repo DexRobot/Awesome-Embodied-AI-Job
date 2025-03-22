@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.22]**
+[MBZUAI (Abu Dhabi, United Arab Emirates) - Robotics - Assistant, Associate and Full Professor](https://apply.interfolio.com/122995)
+
+**[2025.3.22]**
 [南京大学智能科学与技术学院 - 具身智能 - 副教授/助理教授](https://mp.weixin.qq.com/s/8qC9N1cXTI6oiffeVB-32w)
 
 **[2025.3.21]**
