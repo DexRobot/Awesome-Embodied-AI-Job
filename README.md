@@ -79,6 +79,12 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.23]**
+[University of Surrey - Evaluating the next generation of warehouse robotics using generative world models - PhD](https://www.surrey.ac.uk/fees-and-funding/studentships/evaluating-next-generation-warehouse-robotics-using-generative-world-models)
+
+**[2025.3.23]**
+[Horizon Europe MSCA-DN Project AIGreenBots - robotics and AI for agricultural robotics - 11 PhD Positions](https://aigreenbots.eu/recruitment/open-positions)
+
+**[2025.3.23]**
 [哈工大深圳 - 微型机器人 - 博士(3月31日前急招)](https://mp.weixin.qq.com/s/IqFRo3TqoioHRfZTAAv5-w)
 
 **[2025.3.23]**
