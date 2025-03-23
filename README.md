@@ -85,6 +85,9 @@
 [Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
 
 **[2025.3.23]**
+[国金证券具身智能组 - 人形机器人板块 - 实习生(可远程可留用)](https://mp.weixin.qq.com/s?__biz=MzUyMjMzNjAyMA==&mid=2247501678&idx=1&sn=66edbd93b157ff527cb8602b73803a27&chksm=f83ff838e60cdfd7e9636f832ecd866f0e3d508effe958f9e3d30d822096726c95f0c6f86c15#rd)
+
+**[2025.3.23]**
 [Neura Robotics (Germany) - Embodied AI - Intern/Expert](https://jobs.neura-robotics.com/category/ai/58bd0246-cfdb-4930-b2f3-bc758471b5a6)
 
 **[2025.3.23]**
