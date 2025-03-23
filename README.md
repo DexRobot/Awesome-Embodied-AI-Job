@@ -85,6 +85,9 @@
 [Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
 
 **[2025.3.23]**
+[Neura Robotics (Germany) - Embodied AI - Intern/Expert](https://jobs.neura-robotics.com/category/ai/58bd0246-cfdb-4930-b2f3-bc758471b5a6)
+
+**[2025.3.23]**
 [NVIDIA - Generalist Embodied Agent Research - Research Scientist (New College Grad 2025)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Research-Scientist--Generalist-Embodied-Agent-Research---New-College-Grad-2025_JR1990933)
 
 **[2025.3.23]**
