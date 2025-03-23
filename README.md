@@ -85,6 +85,9 @@
 [Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
 
 **[2025.3.23]**
+[华为中央研究院类脑计算团队(北京/上海/杭州/南京/合肥/深圳) - 具身智能 - 算法实习生](http://xhslink.com/a/H3CPYMuffxu8)
+
+**[2025.3.23]**
 [京东探索研究院(北京亦庄京东总部) - 具身智能/人形机器人 - 实习生](http://xhslink.com/a/UHVgNGedEwu8)
 
 **[2025.3.23]**
