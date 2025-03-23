@@ -85,6 +85,18 @@
 [Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
 
 **[2025.3.23]**
+[Waymo - Deep Learning & Modeling Research - Summer Intern](https://www.linkedin.com/jobs/view/4089471994)
+
+**[2025.3.23]**
+[Waymo - World Modeling - Research Scientist](https://www.linkedin.com/jobs/view/4137993790)
+
+**[2025.3.23]**
+[NVIDIA - Foundation Model Training Infrastructure - Senior Research Engineer](https://www.linkedin.com/jobs/view/4093112104)
+
+**[2025.3.23]**
+[Google DeepMind - Robotics - Research Scientist](https://www.linkedin.com/jobs/view/4083256486)
+
+**[2025.3.23]**
 [华为中央研究院类脑计算团队(北京/上海/杭州/南京/合肥/深圳) - 具身智能 - 算法实习生](http://xhslink.com/a/H3CPYMuffxu8)
 
 **[2025.3.23]**
