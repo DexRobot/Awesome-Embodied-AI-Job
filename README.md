@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.23]**
+[哈工大深圳 - 微型机器人 - 博士(3月31日前急招)](https://mp.weixin.qq.com/s/IqFRo3TqoioHRfZTAAv5-w)
+
+**[2025.3.23]**
 [NTU - Multi-Sensor Fusion in Mobile Manipulation - RA](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Multi-Sensor-Fusion-_R00020112)
 
 **[2025.3.23]**
