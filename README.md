@@ -82,6 +82,9 @@
 [北京大学董豪组 - 具身智能/智能机器人/计算机视觉 - 科研实习生\博士\硕士\博士后](https://zhuanlan.zhihu.com/p/568456535)
 
 **[2025.3.23]**
+[中南大学 - 医疗多模态大模型和具身智能 - 2名博士补录](http://xhslink.com/a/O7paNNVZaru8)
+
+**[2025.3.23]**
 [西交利物浦大学/中科院沈阳自动化所 - 具身智能 - 联培PhD](https://mp.weixin.qq.com/s?__biz=MzkxNjU5ODU4Nw==&mid=2247501975&idx=6&sn=1edcf880fd1ca062e2a81592a72abd99&chksm=c06f7739f1da725ef343dccea18e2ebb2db43945b48d57662babca4346c1107a267186ca3f5b#rd)
 
 **[2025.3.23]**
