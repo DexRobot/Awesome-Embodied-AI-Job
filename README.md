@@ -81,6 +81,12 @@
 **[Long-term]**
 [北京大学董豪组 - 具身智能/智能机器人/计算机视觉 - 科研实习生\博士\硕士\博士后](https://zhuanlan.zhihu.com/p/568456535)
 
+**[Long-term]**
+[Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
+
+**[2025.3.23]**
+[NVIDIA - Generalist Embodied Agent Research - Research Scientist (New College Grad 2025)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Research-Scientist--Generalist-Embodied-Agent-Research---New-College-Grad-2025_JR1990933)
+
 **[2025.3.23]**
 [中南大学 - 医疗多模态大模型和具身智能 - 2名博士补录](http://xhslink.com/a/O7paNNVZaru8)
 
