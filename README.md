@@ -79,6 +79,9 @@
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 **[2025.3.23]**
+[西交利物浦大学/中科院沈阳自动化所 - 具身智能 - 联培PhD](https://mp.weixin.qq.com/s?__biz=MzkxNjU5ODU4Nw==&mid=2247501975&idx=6&sn=1edcf880fd1ca062e2a81592a72abd99&chksm=c06f7739f1da725ef343dccea18e2ebb2db43945b48d57662babca4346c1107a267186ca3f5b#rd)
+
+**[2025.3.23]**
 [University of Surrey - Evaluating the next generation of warehouse robotics using generative world models - PhD](https://www.surrey.ac.uk/fees-and-funding/studentships/evaluating-next-generation-warehouse-robotics-using-generative-world-models)
 
 **[2025.3.23]**
