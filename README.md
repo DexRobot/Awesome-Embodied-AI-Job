@@ -26,10 +26,10 @@
 
 🌟 Give us some stars on Github (ฅ>ω<*ฅ)
 
-## 1. Long-term Jobs
+## 1. Long-term Jobs | 长期招聘
 
 <details>
- <summary> 🚀👇 Click here to see long-term job opennings 👇🚀 </summary> 
+ <summary> 🚀👇 Click here to see long-term job opennings | 点击展开长期招聘 👇🚀 </summary> 
 
 [上海创智学院全球引进青年教师！](https://mp.weixin.qq.com/s/1w-6JicmTtlyAUeOHqS0Kw)
 
@@ -73,7 +73,7 @@
 
 </details>
 
-## 2. Rolling Recruitment
+## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.3.25]**
 [深圳科创学院具身智能团队 - 机器人系统工程师/具身智能算法工程师 - 全职](./2025/深圳科创学院具身智能团队-20250325.md)
