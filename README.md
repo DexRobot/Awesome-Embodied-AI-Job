@@ -84,7 +84,7 @@
 **[Long-term]**
 [Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
 
-**[2025.3.23]**
+**[2025.3.25]**
 [深圳科创学院具身智能团队 - 机器人系统工程师/具身智能算法工程师 - 全职](./2025/深圳科创学院具身智能团队-20250325.md)
 
 **[2025.3.23]**
