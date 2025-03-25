@@ -78,6 +78,9 @@
 **[2025.3.25]**
 [深圳科创学院具身智能团队 - 机器人系统工程师/具身智能算法工程师 - 全职](./2025/深圳科创学院具身智能团队-20250325.md)
 
+**[2025.3.25]**
+[KTH - Robotics with spatial understanding and Modelling - PostDoc](https://kth.varbi.com/en/what:job/jobID:810291/type:job/where:51/apply:1)
+
 **[2025.3.23]**
 [Waymo - Deep Learning & Modeling Research - Summer Intern](https://www.linkedin.com/jobs/view/4089471994)
 
