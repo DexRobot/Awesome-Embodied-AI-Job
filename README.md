@@ -76,6 +76,18 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.3.26]**
+[University of Nottingham - Soft Robotics and Wearables - PhD (UK students only)](https://www.somabotics.ac.uk/phd-studentship-in-soft-robotics-and-wearables/)
+
+**[2025.3.26]**
+[University of Surrey - Neuro-muscular state estimation and control for physical human-robot interaction - PhD](https://x.com/Martel_MF/status/1902680928574419237)
+
+**[2025.3.26]**
+[North Dakota State University - Precision Agriculture & Robotics - PhD](https://x.com/MUdoisoh/status/1904369386925764730)
+
+**[2025.3.26]**
+[Institut de Robòtica i Informàtica Industrial (Spain) - Learning robot behaviors in collaborative manufacturing of large components - PhD](https://www.iri.upc.edu/jobs/140)
+
+**[2025.3.26]**
 [松灵机器人2025年春季社招](https://mp.weixin.qq.com/s/O9F4V0GtSn0PceB6yMHBNA)
 
 **[2025.3.25]**
