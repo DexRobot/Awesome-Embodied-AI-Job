@@ -18,7 +18,7 @@
 
 > 如果本身不知道自己适合哪份工作和职业发展困惑也可以找我聊一聊，林-具身： 微信 mmls20240701
 
-⚠ Always check your employer: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
+🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
 📫 DeepTimber community: [DeepTimber-机器人社区](https://gamma.app/public/DeepTimber-Robotics-Innovations-Community-A-Community-for-Multi-m-og0uv8mswl1a3q7?mode=doc)
 
