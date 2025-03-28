@@ -78,6 +78,12 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.3.28]**
+[BMW Group (Munich) - Neuromorphic Multimodal Perception and Learning - Intern](https://www.linkedin.com/jobs/view/4144171289)
+
+**[2025.3.28]**
+[Luleå University of Technology (Sweden) - Robotics and Artificial Intelligence WASP - PhD](https://www.linkedin.com/jobs/view/4195197671)
+
+**[2025.3.28]**
 [Toyota US - Robotics & Machine Learning for Human-Robot Interaction and Intelligent Vehicles - Research Engineer](https://www.linkedin.com/jobs/view/4193010103)
 
 **[2025.3.26]**
