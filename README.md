@@ -77,6 +77,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.3.28]**
+[Toyota US - Robotics & Machine Learning for Human-Robot Interaction and Intelligent Vehicles - Research Engineer](https://www.linkedin.com/jobs/view/4193010103)
+
 **[2025.3.26]**
 [University of Nottingham - Soft Robotics and Wearables - PhD (UK students only)](https://www.somabotics.ac.uk/phd-studentship-in-soft-robotics-and-wearables/)
 
