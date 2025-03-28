@@ -77,6 +77,33 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.3.29]**
+[众擎机器人 - 运动控制 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/HXyY9h13NLrV7PmbQKFOPg)
+
+**[2025.3.29]**
+[星动纪元 - 大模型算法/电机控制 - 校招/社招 - 转载自TechTouch](https://mp.weixin.qq.com/s/LOYz6xO0ntRqJhC8yXlYsw)
+
+**[2025.3.29]**
+[石头科技 - 运动控制/导航/视觉 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/L4jhau98tZvf42YFzxf3bw)
+
+**[2025.3.29]**
+[酷睿程(地平线大众合资) - 生成式算法/规控/控制/SLAM - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/elZhtV0uh64XuF-f0sMlAQ)
+
+**[2025.3.29]**
+[云鲸智能 - 运筹优化/机械臂操作/3D感知 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/-1SCikUrx23PMlk3HD08yQ)
+
+**[2025.3.29]**
+[海康机器人 - 运动控制/计算机视觉 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/oPxkw6MhrRA6WWbFfE1Dkw)
+
+**[2025.3.29]**
+[科大讯飞 - 自动驾驶工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/8sMLkZdViDNMFAa_2RMccQ)
+
+**[2025.3.29]**
+[文远知行春招 - 转载自TechTouch](https://mp.weixin.qq.com/s/KRu0r3n4zBREyCybTzoJIQ)
+
+**[2025.3.29]**
+[汇川技术 - 传统运动控制/仿真/电机控制 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/ag70ohNb736zLj5FoOxzNw)
+
 **[2025.3.28]**
 [小米 - 传统运动控制/强化学习运动控制/SLAM - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/8JXHqXVA9eyEqVyG9uf7Og)
 
