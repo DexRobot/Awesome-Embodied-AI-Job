@@ -78,6 +78,27 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.3.28]**
+[小米 - 传统运动控制/强化学习运动控制/SLAM - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/8JXHqXVA9eyEqVyG9uf7Og)
+
+**[2025.3.28]**
+[蚂蚁集团 - 具身算法/运动控制 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/UdLMB3CXshJ2Ph7JmFHNsQ)
+
+**[2025.3.28]**
+[海尔 - SLAM/运动控制/抓取/视觉 - 算法工程师/算法总监 - 转载自TechTouch](https://mp.weixin.qq.com/s/0kpfHp-YNq3PNU0hL7ZGXw)
+
+**[2025.3.28]**
+[它石智航 - 运动控制/SLAM/感知 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/6yDqtpgvjnLq0Gi9qU7HPg)
+
+**[2025.3.28]**
+[字节跳动 - SLAM/运动控制/移动规划 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/2YzWD-Yz0LTJ9wxyTqvuoQ)
+
+**[2025.3.28]**
+[Vivo - 机器人首席科学家 - 转载自TechTouch](https://mp.weixin.qq.com/s/udrWO6zukulb3jYGSUCdfw)
+
+**[2025.3.28]**
+[KTH - Machine Learning and Robotics - Postdocs](https://kth.varbi.com/en/what:job/jobID:812497/type:job/where:51/apply:1)
+
+**[2025.3.28]**
 [BMW Group (Munich) - Neuromorphic Multimodal Perception and Learning - Intern](https://www.linkedin.com/jobs/view/4144171289)
 
 **[2025.3.28]**
