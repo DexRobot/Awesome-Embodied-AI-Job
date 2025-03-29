@@ -78,6 +78,9 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.3.29]**
+[智源研究院 - 端到端VLA - 实习 - 转载自具身智能之心](https://mp.weixin.qq.com/s/8B0q5qRtyS7Ob3NoH2dLqQ)
+
+**[2025.3.29]**
 [众擎机器人 - 运动控制 - 算法工程师 - 转载自TechTouch](https://mp.weixin.qq.com/s/HXyY9h13NLrV7PmbQKFOPg)
 
 **[2025.3.29]**
