@@ -78,7 +78,10 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.3.29]**
-[北京大学Hao Tang组 - Embodied AI/AIGC - PostDoc/PhD/Master/Intern](https://mp.weixin.qq.com/s/BapyKWgC0TO-cbJMdI0iSQ)
+[上海期智研究院 - 全职研究员](https://mp.weixin.qq.com/s/f04KaROHPGMTAsbHs-XsZQ)
+
+**[2025.3.29]**
+[北京大学Hao Tang组 - Embodied AI/AIGC - PostDoc/PhD/Master/Intern - 转载至硕博上岸图鉴](https://mp.weixin.qq.com/s/rtO5CL576O0vafs7tk2G6w)
 
 **[2025.3.29]**
 [智源研究院 - 端到端VLA - 实习 - 转载自具身智能之心](https://mp.weixin.qq.com/s/8B0q5qRtyS7Ob3NoH2dLqQ)
