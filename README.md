@@ -78,6 +78,9 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.3.29]**
+[深圳科创学院具身智能团队 - 机器人系统工程师/具身智能算法工程师 - 全职](./2025/深圳科创学院具身智能团队-20250325.md)
+
+**[2025.3.29]**
 [上海期智研究院 - 全职研究员](https://mp.weixin.qq.com/s/f04KaROHPGMTAsbHs-XsZQ)
 
 **[2025.3.29]**
@@ -157,9 +160,6 @@
 
 **[2025.3.26]**
 [松灵机器人2025年春季社招](https://mp.weixin.qq.com/s/O9F4V0GtSn0PceB6yMHBNA)
-
-**[2025.3.25]**
-[深圳科创学院具身智能团队 - 机器人系统工程师/具身智能算法工程师 - 全职](./2025/深圳科创学院具身智能团队-20250325.md)
 
 **[2025.3.25]**
 [KTH - Robotics with spatial understanding and Modelling - PostDoc](https://kth.varbi.com/en/what:job/jobID:810291/type:job/where:51/apply:1)
