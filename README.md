@@ -73,6 +73,8 @@
 
 [Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
 
+[Tesla - Long term recruitment](https://www.tesla.com/careers)
+
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
