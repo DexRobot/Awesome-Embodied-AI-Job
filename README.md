@@ -80,6 +80,9 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.4.2]**
+银河通用(北京) - 足式控制 - 全职急招 - 微信联系Milky_wKay
+
+**[2025.4.2]**
 [美团大模型北斗实习计划2025 - 截止日期7月31日 - 转载自TalentAI](https://mp.weixin.qq.com/s/CYEhikKOoasutvCRyggvgg)
 
 **[2025.3.29]**
