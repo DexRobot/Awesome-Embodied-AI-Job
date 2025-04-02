@@ -79,6 +79,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.2]**
+[美团大模型北斗实习计划2025 - 截止日期7月31日 - 转载自TalentAI](https://mp.weixin.qq.com/s/CYEhikKOoasutvCRyggvgg)
+
 **[2025.3.29]**
 [商汤2025春季校招](https://mp.weixin.qq.com/s/XmuJA3BlKhvpl1IHII6MfQ)
 
