@@ -80,13 +80,16 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.4.3]**
-[Intel(北京) - Robotic System Research - Intern](https://www.linkedin.com/jobs/view/4197890513)
+银河通用(北京) - 足式控制 - 全职急招 - 微信联系Milky_wKay
 
 **[2025.4.3]**
 傅利叶智能(上海) - 具身智能VLA多模态大模型 - 实习生 - 有意者请联系Zhangh@fftai.com
 
-**[2025.4.2]**
-银河通用(北京) - 足式控制 - 全职急招 - 微信联系Milky_wKay
+**[2025.4.3]**
+[Intel(北京) - Robotic System Research - Intern](https://www.linkedin.com/jobs/view/4197890513)
+
+**[2025.4.3]**
+[逐际动力(北京/深圳) - 具身算法/强化学习工程师 - 全职 - 转载自TechTouch](https://mp.weixin.qq.com/s/Hkr7Sse_v8bkrDlRbj8-Hg)
 
 **[2025.4.2]**
 [美团大模型北斗实习计划2025 - 截止日期7月31日 - 转载自TalentAI](https://mp.weixin.qq.com/s/CYEhikKOoasutvCRyggvgg)
