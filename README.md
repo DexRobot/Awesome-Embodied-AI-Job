@@ -80,6 +80,9 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.4.3]**
+[Intel(北京) - Robotic System Research - Intern](https://www.linkedin.com/jobs/view/4197890513)
+
+**[2025.4.3]**
 傅利叶智能(上海) - 具身智能VLA多模态大模型 - 实习生 - 有意者请联系Zhangh@fftai.com
 
 **[2025.4.2]**
