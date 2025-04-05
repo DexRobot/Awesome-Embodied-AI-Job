@@ -1,5 +1,5 @@
 <h1 align="center">
-	DeepTimber Robotics Talent Call | 具身智能招贤榜
+	Lumina Robotics Talent Call | 具身智能招贤榜
 </h1>
 
 <div align=center><img src="https://github.com/user-attachments/assets/fdee913e-4c84-4b5b-8761-7b29cf1451ac" width="20%" /></div>
@@ -20,7 +20,7 @@
 
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
-📫 DeepTimber community: [具身大模型飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=9ael5a59-d90c-4250-90a9-9cd1528ae213), [DeepTimber Official Website](https://gamma.app/public/DeepTimber-Robotics-Innovations-Community-A-Community-for-Multi-m-og0uv8mswl1a3q7?mode=doc)
+📫 Lumina community: [Lumina具身大模型飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=9ael5a59-d90c-4250-90a9-9cd1528ae213), [Lumina Official Website](https://lumina-embodied.ai/)
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
