@@ -75,9 +75,23 @@
 
 [Tesla - Long term recruitment](https://www.tesla.com/careers)
 
+[DIJ大疆](https://we.dji.com/index_en.html)
+
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
+
+**[2025.4.6]**
+[音波迭代Embodied Pioneering - 一级市场具身智能方向 - 投资实习生](https://hub.baai.ac.cn/view/44606)
+
+**[2025.4.6]**
+[DJI大疆 - 图像算法 - 实习生](https://we.dji.com/zh-CN/position/detail?positionId=1400364273199747072)
+
+**[2025.4.6]**
+[DJI大疆 - 数据闭环工程师 - 全职](https://we.dji.com/zh-CN/position/detail?positionId=1747111066515173376)
+
+**[2025.4.6]**
+[Imdea Materials (Spain) - Collaborative robots and laboratory automation in materials discovery - Intern](https://x.com/ImdeaMaterials/status/1907689526656643502)
 
 **[2025.4.3]**
 银河通用(北京) - 足式控制 - 全职急招 - 微信联系Milky_wKay
