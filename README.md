@@ -82,6 +82,9 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.4.6]**
+[荣耀(北京) - 机器人软件系统开发工程师 - 全职](https://career.honor.com/SU61b9b9992f9d24431f5050a5/pb/posDetail.html?postId=67e247246202cc6571f69ad1&postType=intern)
+
+**[2025.4.6]**
 [音波迭代Embodied Pioneering - 一级市场具身智能方向 - 投资实习生](https://hub.baai.ac.cn/view/44606)
 
 **[2025.4.6]**
