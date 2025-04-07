@@ -82,7 +82,7 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.4.7]**
-[京东探索研究院具身智能团队 - VLA算法研发 - 全职](https://www.xiaohongshu.com/explore/67f35af8000000001200e2e4?app_platform=android&ignoreEngage=true&app_version=8.78.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBwyY1PMSM6t1X8APiJ-Db6MMfW4L3RdMltitl6dtnWsA=&author_share=1&xhsshare=WeixinSession&shareRedId=N0gzOUlHSU48STo6Sz82Pj06Pk04Rzs6&apptime=1744001814&share_id=63ab131e16e543a4b3a449c0ca8eae99&share_channel=wechat&wechatWid=e12be145759063acc95ae44d8ae177e1&wechatOrigin=menu)
+[京东探索研究院具身智能团队 - VLA算法研发 - 实习](https://www.xiaohongshu.com/discovery/item/67f35af8000000001200e2e4?source=webshare&xhsshare=pc_web&xsec_token=CBwyY1PMSM6t1X8APiJ-Db6MMfW4L3RdMltitl6dtnWsA=&xsec_source=pc_share)
 
 **[2025.4.6]**
 [荣耀(北京) - 机器人软件系统开发工程师 - 全职](https://career.honor.com/SU61b9b9992f9d24431f5050a5/pb/posDetail.html?postId=67e247246202cc6571f69ad1&postType=intern)
