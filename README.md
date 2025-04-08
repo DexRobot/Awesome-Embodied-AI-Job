@@ -84,6 +84,12 @@
 **[2025.4.8]**
 [深圳河套学院 - 24/25/26级各方向PhD - 4月10日截止](./2025/深圳河套学院202504.md)
 
+**[2025.4.8]**
+[字节跳动实习生招聘——筋斗云人才计划 - 转载自TalentAI](https://mp.weixin.qq.com/s/jZaqqS7Fnyul2BkAbYnk_Q)
+
+**[2025.4.8]**
+[小米集团2026届转正实习招聘 - 转载自TalentAI](https://mp.weixin.qq.com/s/Tf5MSMdBam3HyID-Qih8dQ)
+
 **[2025.4.7]**
 [京东探索研究院具身智能团队 - VLA算法研发 - 实习](https://www.xiaohongshu.com/discovery/item/67f35af8000000001200e2e4?source=webshare&xhsshare=pc_web&xsec_token=CBwyY1PMSM6t1X8APiJ-Db6MMfW4L3RdMltitl6dtnWsA=&xsec_source=pc_share)
 
