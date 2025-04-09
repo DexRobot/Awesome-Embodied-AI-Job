@@ -20,7 +20,7 @@
 
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
-📫 Lumina community: [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=9ael5a59-d90c-4250-90a9-9cd1528ae213), [Lumina Official Website](https://lumina-embodied.ai/)
+📫 Lumina community: [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=9ael5a59-d90c-4250-90a9-9cd1528ae213)
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
