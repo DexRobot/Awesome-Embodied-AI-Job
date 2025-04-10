@@ -43,8 +43,6 @@
 
 [清华大学SSR丁文伯团队 - PhD/MPhil/RA](./2025/THU-WenboDing.md)
 
-[星海图 - VLA/算法/Infra/三维重建/机械 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E6%B5%B7%E5%9B%BE%E5%BC%80%E6%94%BE%E5%B2%97%E4%BD%8D.pdf)
-
 [美的集团AI研究院 (上海/美国) - 具身智能](./2025/%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2AI%E7%A0%94%E7%A9%B6%E9%99%A2.md)
 
 [北京大学/宁波东方理工大学-PhD/RA](./2025/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6or%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-PhDorRA-20250224.md)
@@ -80,6 +78,12 @@
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
+
+**[2025.4.10]**
+[星海图 - VLA/算法/Infra/三维重建/机械 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E6%B5%B7%E5%9B%BE%E5%BC%80%E6%94%BE%E5%B2%97%E4%BD%8D.pdf)
+
+**[2025.4.10]**
+[北京中关村学院全球招募副院长/助理院长 - 转载自TalentAI](https://mp.weixin.qq.com/s/yx-29nJXkTcwm1pde7mQGw)
 
 **[2025.4.10]**
 [香港科技大学（广州）李昊昂组 - 具身智能操纵 - PhD - 转载自具身智能之心](https://mp.weixin.qq.com/s/3yHVd-z4abD_8X1WvV7q0w)
