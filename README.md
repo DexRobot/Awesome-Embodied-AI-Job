@@ -84,6 +84,12 @@
 [星海图 - VLA/算法/Infra/三维重建/机械 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E6%B5%B7%E5%9B%BE%E5%BC%80%E6%94%BE%E5%B2%97%E4%BD%8D.pdf)
 
 **[2025.4.10]**
+[KTH - Robotics and geometric machine learning - PhD](https://kth.varbi.com/en/what:job/jobID:811530/type:job/where:51/apply:1)
+
+**[2025.4.10]**
+[上海人工智能实验室2026联培博士招生简章](https://mp.weixin.qq.com/s/3hDyeKK8R5oQm7qbwyyU3A)
+
+**[2025.4.10]**
 [北京中关村学院全球招募副院长/助理院长 - 转载自TalentAI](https://mp.weixin.qq.com/s/yx-29nJXkTcwm1pde7mQGw)
 
 **[2025.4.10]**
