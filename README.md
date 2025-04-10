@@ -81,6 +81,12 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.10]**
+[香港科技大学（广州）李昊昂组 - 具身智能操纵 - PhD - 转载自具身智能之心](https://mp.weixin.qq.com/s/3yHVd-z4abD_8X1WvV7q0w)
+
+**[2025.4.10]**
+[中关村人工智能研究院 - 2025年超能实习生 - 转载自AI求职](https://mp.weixin.qq.com/s/bxXEXlGFQbouBmtWfOJWig)
+
 **[2025.4.8]**
 [深圳河套学院 - 24/25/26级各方向PhD - 4月10日截止](./2025/深圳河套学院202504.md)
 
