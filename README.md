@@ -81,6 +81,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.11]**
+[香港岭南大学陈曦组 - 软体机器人 - PhD](https://mp.weixin.qq.com/s/sldZ0LV6VyX4wyv2BcoNAg)
+
 **[2025.4.10]**
 [星海图 - VLA/算法/Infra/三维重建/机械 - 全职](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%98%9F%E6%B5%B7%E5%9B%BE%E5%BC%80%E6%94%BE%E5%B2%97%E4%BD%8D.pdf)
 
