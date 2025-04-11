@@ -32,6 +32,7 @@
 
 <details>
  <summary> 🚀👇 Click here to see long-term job opennings | 点击展开长期招聘 👇🚀 </summary> 
+	
 [南大龙霄潇-PhD/Master/RA](https://zhuanlan.zhihu.com/p/30620630926)
 
 [上海创智学院全球引进青年教师！](https://mp.weixin.qq.com/s/1w-6JicmTtlyAUeOHqS0Kw)
