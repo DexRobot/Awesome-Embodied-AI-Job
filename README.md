@@ -31,7 +31,7 @@
 ## 1. Long-term Jobs | 长期招聘
 
 <details>
- <summary> 🚀👇 Click here to see long-term job opennings | 点击展开长期招聘 👇🚀 </summary> 
+ <summary> 🚀👇 Click here to see long-term job opennings | 点击展开长期招聘 👇🚀 </summary> <br>
 	
 [南大龙霄潇-PhD/Master/RA](https://zhuanlan.zhihu.com/p/30620630926)
 
