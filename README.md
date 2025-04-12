@@ -81,6 +81,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.12]**
+[三星中国研究院 - Robot Leading Scientist - 转载自CAAI认知系统与信息处理专委会](https://mp.weixin.qq.com/s/Za23Htw63eP7MQbEsCJ9rw)
+
 **[2025.4.11]**
 [香港岭南大学陈曦组 - 软体机器人 - PhD](https://mp.weixin.qq.com/s/sldZ0LV6VyX4wyv2BcoNAg)
 
