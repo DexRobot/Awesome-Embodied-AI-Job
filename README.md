@@ -81,6 +81,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.17]**
+[OpenDriveLab - RAP/PostDoc/机器人硬件工程师](https://mp.weixin.qq.com/s/H3wM7e0LtGNubG35Wol1WA)
+
 **[2025.4.12]**
 [三星中国研究院 - Robot Leading Scientist - 转载自CAAI认知系统与信息处理专委会](https://mp.weixin.qq.com/s/Za23Htw63eP7MQbEsCJ9rw)
 
