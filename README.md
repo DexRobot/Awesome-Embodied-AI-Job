@@ -81,6 +81,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.19]**
+[银河通用 - 三维重建 - 全职](https://mp.weixin.qq.com/s/YDgUz8WSe-LmciBKOJGXqA)
+
 **[2025.4.17]**
 [OpenDriveLab - RAP/PostDoc/机器人硬件工程师](https://mp.weixin.qq.com/s/H3wM7e0LtGNubG35Wol1WA)
 
