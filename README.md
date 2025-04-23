@@ -82,6 +82,9 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.4.23]**
+[KTH - robotics with specialization in visual domain adaptation - PostDoc](https://kth.varbi.com/en/what:job/jobID:818770/type:job/where:51/apply:1)
+
+**[2025.4.23]**
 [蔚来 - 春季招聘 - 实习/全职 - 转载自TalentAI](https://mp.weixin.qq.com/s/B68EKb7L7NZ6Oe2kcO0XMg)
 
 **[2025.4.20]**
