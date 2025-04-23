@@ -81,6 +81,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.23]**
+[蔚来 - 春季招聘 - 实习/全职 - 转载自TalentAI](https://mp.weixin.qq.com/s/B68EKb7L7NZ6Oe2kcO0XMg)
+
 **[2025.4.20]**
 [北京中关村学院 - 具身智能方向 - 研究员/工程师/实习生](./2025/中关村学院20250420.md)
 
