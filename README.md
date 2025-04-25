@@ -84,9 +84,6 @@
 **[2025.4.25]**
 [招商局先进院(深圳) - 具身数据/多模态/动作捕捉/VSLAM/人体姿态估计/大模型训练/大模型数据工程/机械臂运动控制 - 全职/实习 - 可给香港身份](./2025/招商局先进院20250425.md)
 
-**[2025.4.25]**
-
-
 **[2025.4.23]**
 [KTH - robotics with specialization in visual domain adaptation - PostDoc](https://kth.varbi.com/en/what:job/jobID:818770/type:job/where:51/apply:1)
 
