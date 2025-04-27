@@ -20,7 +20,7 @@
 
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
-📫 Lumina community: [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=9ael5a59-d90c-4250-90a9-9cd1528ae213)
+📫 Lumina community: [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=ee7i14e8-14b9-4c82-baf9-1ddfe9ff4a92)
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
@@ -80,6 +80,9 @@
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
+
+**[2025.4.27]**
+[哈工大深圳研究院杨硕组 - 具身智能/多模态模型 - PhD](https://www.xiaohongshu.com/discovery/item/680dbcd6000000001c03170d?source=webshare&xhsshare=pc_web&xsec_token=CBvoT0xyiePlvpoyx_Ggo-IHVMoyOynsSfK8up5pi7bQU=&xsec_source=pc_share)
 
 **[2025.4.25]**
 [蚂蚁集团PlanA人才专项 - 转载自CVer](https://mp.weixin.qq.com/s/oPSyDhpKaVa8IU62ueiR5g)
