@@ -81,6 +81,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.4.28]**
+[南科大机械系STAR课题组 - 空中机器人/具身智能 - PhD](https://www.xiaohongshu.com/discovery/item/680f1b2600000000210051e1?source=webshare&xhsshare=pc_web&xsec_token=CBg-7XV931-Hx82WaEfAROXMtdwv_omSbhNPVU8vejHJo=&xsec_source=pc_share)
+
 **[2025.4.27]**
 [哈工大深圳研究院杨硕组 - 具身智能/多模态模型 - PhD](https://www.xiaohongshu.com/discovery/item/680dbcd6000000001c03170d?source=webshare&xhsshare=pc_web&xsec_token=CBvoT0xyiePlvpoyx_Ggo-IHVMoyOynsSfK8up5pi7bQU=&xsec_source=pc_share)
 
