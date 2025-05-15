@@ -106,6 +106,9 @@
 **[2025.5.15]**
 [北京大学智能学院钟亦武组 - 多模态推理/具身智能 - 博士 - 转载自Talent AI](https://mp.weixin.qq.com/s/Ciu5vuLRBzUZDxqJ0gUzJw)
 
+**[2025.5.15]**
+[上海算法创新研究院&上海交大人工智能学院 - 空间智能/具身智能 - 实习生](https://mp.weixin.qq.com/s/3pS2GOAJQ_K9qkUm26zUIQ)
+
 **[2025.5.5]**
 [浙江人形机器人中心VLA,灵巧手，操作，仿真急招-/校招/社招/实习皆可，直接联系微信：i-zhongxiang,地点：宁波](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B5%99%E6%B1%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%AD%E5%BF%83%E6%80%A5%E6%8B%9B)
 
