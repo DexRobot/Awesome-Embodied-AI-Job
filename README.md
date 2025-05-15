@@ -82,6 +82,9 @@
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.5.15]**
+[阿加犀智能科技(成都) - 具身智能 - 暑期实习](https://mp.weixin.qq.com/s/5B_vdvWcrswyqQP-0zwzvw)
+
+**[2025.5.15]**
 [港科广褚晓文李昊昂组 - 具身智能 - 25Fall or 26 Fall PhD/RA](./2025/港科广褚晓文组20250515.md)
 
 **[2025.5.5]**
