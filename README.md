@@ -8,9 +8,10 @@
 <p align="center"><strong>Don't panic! You are much better than you think!</p>
 <p align="center">If you don't feel well, feel free to reach us ヾ(^▽^*))</p>
 <p align="center"><strong>For employers: </strong></p>
-<p align="center">Drop me a PR or issue, or contact me for posting your positions!</p>
+<p align="center">Drop me a PR or issue, or contact me for posting your positions FOR FREE!</p>
 
-> 如果你对发布招聘、招生感兴趣，欢迎联系（请携带备注）：
+
+> 这是一个完全公益和免费的项目，如果你对发布招聘、招生感兴趣，欢迎联系我们：
 > 
 > 李卓恒（项目发起人）：微信 StarRingSpace<br>
 > 陈天行：微信 TianxingChen_2002<br>
