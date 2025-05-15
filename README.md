@@ -81,6 +81,9 @@
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.5.15]**
+[港科广褚晓文李昊昂组 - 具身智能 - 25Fall or 26 Fall PhD/RA](./2025/港科广褚晓文组20250515.md)
+
 **[2025.5.5]**
 [浙江人形机器人中心VLA,灵巧手，操作，仿真急招-/校招/社招/实习皆可，直接联系微信：i-zhongxiang,地点：宁波](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2025/%E6%B5%99%E6%B1%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%AD%E5%BF%83%E6%80%A5%E6%8B%9B)
 
