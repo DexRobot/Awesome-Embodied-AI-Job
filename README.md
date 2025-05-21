@@ -83,6 +83,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.5.21]**
+[千觉机器人(上海) - 触觉传感器/电机/算法/结构/材料/机械/强化学习/仿真/嵌入式软件工程师 - 全职/实习](./2025/千觉机器人20250521.md)
+
+**[2025.5.21]**
 [中金研究院(北京) - 具身智能领域产业跟踪 - 实习](https://cicc.zhiye.com/custom/projectxq?jobAdId=435abd0e-2a3c-4945-a512-f33b141a4f32&jc=3&hideMenu=1)
 
 **[2025.5.15]**
