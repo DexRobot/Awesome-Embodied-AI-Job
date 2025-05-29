@@ -82,6 +82,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.5.29]**
+[英伟达(北京) - 大规模数据集/仿真benchmark/算法部署 - 实习](./2025/英伟达20250529.md)
+
 **[2025.5.28]**
 [地瓜机器人(北京) - VLA/多模态infra/机器人应用开发 - 全职](https://mp.weixin.qq.com/s/A2wiOmLYMB3CFILkqmsLtg)
 
