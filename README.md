@@ -85,6 +85,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 **[2025.5.29]**
 [英伟达(北京) - 大规模数据集/仿真benchmark/算法部署 - 实习](./2025/英伟达20250529.md)
 
+**[2025.5.29]**
+[百度(北京/上海/深圳) - 多模态算法/自动驾驶感知算法/深度学习决策规划算法 - 实习](https://mp.weixin.qq.com/s/DTNB2EKuC6v-6UdWBr244Q)
+
 **[2025.5.28]**
 [地瓜机器人(北京) - VLA/多模态infra/机器人应用开发 - 全职](https://mp.weixin.qq.com/s/A2wiOmLYMB3CFILkqmsLtg)
 
