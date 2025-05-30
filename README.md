@@ -82,6 +82,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.5.30]**
+[香港科技大学徐英豪组 - 具身智能/3D重建与生成/世界模型 - Phd/PostDoc/RA](https://zhuanlan.zhihu.com/p/1909277411457074687?share_code=bPG4rBnezFXl&utm_psn=1911689852157695503&utm_source=wechat_session&utm_medium=social&s_r=0&wechatShare=2)
+
 **[2025.5.29]**
 [英伟达(北京) - 大规模数据集/仿真benchmark/算法部署 - 实习](./2025/英伟达20250529.md)
 
