@@ -82,6 +82,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.6.5]**
+[同济大学齐鹏组 - 具身智能血管介入手术机器人/多模态医学影像人工智能 - PostDoc](./2025/同济20250605.md)
+
 **[2025.5.30]**
 [香港科技大学徐英豪组 - 具身智能/3D重建与生成/世界模型 - Phd/PostDoc/RA](https://zhuanlan.zhihu.com/p/1909277411457074687?share_code=bPG4rBnezFXl&utm_psn=1911689852157695503&utm_source=wechat_session&utm_medium=social&s_r=0&wechatShare=2)
 
