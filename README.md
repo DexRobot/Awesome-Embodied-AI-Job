@@ -31,13 +31,16 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 1. Long-term Jobs | 长期招聘
 
-[HKU MMlab](https://mmlab.hk/about-us#career)
+[HKU MMlab 香港大学多媒体实验室](https://mmlab.hk/about-us#career)
 
-[DIJ大疆](https://we.dji.com/index_en.html)
+[Tesla - Long term recruitment](https://www.tesla.com/careers)
+
+[DIJ 大疆](https://we.dji.com/index_en.html)
 
 [Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
 
-[Tesla - Long term recruitment](https://www.tesla.com/careers)
+<details>
+ <summary> 🚀👇 Click here to see more long-term job opennings | 点击展开更多长期招聘 👇🚀 </summary> <br>
 
 [智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
 
@@ -45,9 +48,6 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 [小米机器人 - 长期招聘链接](./2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
 
-<details>
- <summary> 🚀👇 Click here to see more long-term job opennings | 点击展开更多长期招聘 👇🚀 </summary> <br>
-	
 [南大龙霄潇-PhD/Master/RA](https://zhuanlan.zhihu.com/p/30620630926)
 
 [上海创智学院全球引进青年教师！](https://mp.weixin.qq.com/s/1w-6JicmTtlyAUeOHqS0Kw)
