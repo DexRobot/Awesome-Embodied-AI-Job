@@ -86,8 +86,20 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
-**[2025.6.5]**
+**[2025.6.6]**
 [同济大学齐鹏组 - 具身智能血管介入手术机器人/多模态医学影像人工智能 - PostDoc](./2025/同济20250605.md)
+
+**[2025.6.6]**
+[北京大学信息技术高等研究院MAII Lab - 机器学习/具身智能 - PostDoc - 转载自AI求职](https://mp.weixin.qq.com/s/2h4GrRbTzTyNsiVbgLqNMQ)
+
+**[2025.6.6]**
+[蚂蚁集团(上海) - 具身感知 - 实习 - 转载自AI求职](https://mp.weixin.qq.com/s/hs-y_eRJLBiinibh8EfAvA)
+
+**[2025.6.6]**
+[上海人工智能实验室夏季招聘 - 包含具身岗位 - 领军科学家/青年科学家/PostDoc/工程师](https://mp.weixin.qq.com/s/sdTfxXq5YsOB3EsfXrKPqQ)
+
+**[2025.6.6]**
+[京东TGT顶尖青年技术天才计划 - 包含具身岗位 - 校招/实习 - 转载自AI求职](https://mp.weixin.qq.com/s/n5fiPSxscHC1iSBoTUALFQ)
 
 **[2025.6.5]**
 [Heriot Watt University 华威大学 (UK) - Chair in Artificial Intelligence](https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4307/?utm_medium=jobshare&utm_source=External+Job+Share)
