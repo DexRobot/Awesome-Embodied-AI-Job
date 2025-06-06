@@ -90,6 +90,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [同济大学齐鹏组 - 具身智能血管介入手术机器人/多模态医学影像人工智能 - PostDoc](./2025/同济20250605.md)
 
 **[2025.6.6]**
+[三星电子(北京) - VLA/RL/点云处理 - 社招/校招](https://www.xiaohongshu.com/discovery/item/683fce9f00000000220049c7?source=webshare&xhsshare=pc_web&xsec_token=CBeZRyTkqEhF8A8C9101LAMaOURcc-dNejTzkm-sajY44=&xsec_source=pc_share)
+
+**[2025.6.6]**
+[Light Robotics(上海/新加坡) - 算法/软件/硬件/产品 - 实习/全职](https://www.xiaohongshu.com/discovery/item/681d765c000000002202f004?source=webshare&xhsshare=pc_web&xsec_token=CBv2XrMp1LlkQwyWrdYgKiZ96yoa2hn6lPg6qwDdDwecI=&xsec_source=pc_share)
+
+**[2025.6.6]**
 [微软亚洲研究院机器学习组工业创新中心 - 具身智能 - 实习](https://mp.weixin.qq.com/s/lpZa1KaSTb0AvefDsxNA8g)
 
 **[2025.6.6]**
