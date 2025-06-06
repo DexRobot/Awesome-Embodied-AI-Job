@@ -31,14 +31,26 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 1. Long-term Jobs | 长期招聘
 
+[HKU MMlab](https://mmlab.hk/about-us#career)
+
+[DIJ大疆](https://we.dji.com/index_en.html)
+
+[Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
+
+[Tesla - Long term recruitment](https://www.tesla.com/careers)
+
+[智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
+
+[智源研究院-社招/校招/实习](./2025/%E6%99%BA%E6%BA%90%E7%A0%94%E7%A9%B6%E9%99%A2-20250224.md)
+
+[小米机器人 - 长期招聘链接](./2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
+
 <details>
- <summary> 🚀👇 Click here to see long-term job opennings | 点击展开长期招聘 👇🚀 </summary> <br>
+ <summary> 🚀👇 Click here to see more long-term job opennings | 点击展开更多长期招聘 👇🚀 </summary> <br>
 	
 [南大龙霄潇-PhD/Master/RA](https://zhuanlan.zhihu.com/p/30620630926)
 
 [上海创智学院全球引进青年教师！](https://mp.weixin.qq.com/s/1w-6JicmTtlyAUeOHqS0Kw)
-
-[智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
 
 [舞肌科技 - 研发岗位招聘](./2025/%E8%88%9E%E8%82%8C%E7%A7%91%E6%8A%80.md)
 
@@ -49,8 +61,6 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [美的集团AI研究院 (上海/美国) - 具身智能](./2025/%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2AI%E7%A0%94%E7%A9%B6%E9%99%A2.md)
 
 [北京大学/宁波东方理工大学-PhD/RA](./2025/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6or%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-PhDorRA-20250224.md)
-
-[智源研究院-社招/校招/实习](./2025/%E6%99%BA%E6%BA%90%E7%A0%94%E7%A9%B6%E9%99%A2-20250224.md)
 
 [中大(深圳)张瑞茂组-PhD/RA/Ms/博后](https://zhuanlan.zhihu.com/p/13173488322)
 
@@ -66,15 +76,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 [NTU Pine Lab (南洋理工感知与具身智能实验室) - PhD/PostDoc/RA/Master](https://pine-lab-ntu.github.io/joinus.html)
 
-[小米机器人 - 长期招聘链接](./2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
-
 [Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
 
 [北京大学董豪组 - 具身智能/智能机器人/计算机视觉 - 科研实习生\博士\硕士\博士后](https://zhuanlan.zhihu.com/p/568456535)
-
-[Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
-
-[Tesla - Long term recruitment](https://www.tesla.com/careers)
 
 [DIJ大疆](https://we.dji.com/index_en.html)
 
