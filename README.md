@@ -90,6 +90,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [同济大学齐鹏组 - 具身智能血管介入手术机器人/多模态医学影像人工智能 - PostDoc](./2025/同济20250605.md)
 
 **[2025.6.6]**
+[上海交通大学SCALE LAB - 人形机器人/双臂协作VLA/RoboTwin仿真开发 - 实习](https://mp.weixin.qq.com/s/tnzDsM_BXy8PGRdkpoTkwg)
+
+**[2025.6.6]**
+[具身研习社 - 具身智能机器人深度内容作者](https://mp.weixin.qq.com/s/UodtBWHQUSNFlWhc5lrpUw)
+
+**[2025.6.6]**
 [University of Southampton - Multimodal Large Language Model in Human-Robot Interaction - Funded PhD](https://www.findaphd.com/phds/project/multimodal-large-language-model-in-human-robot-interaction/?p178567)
 
 **[2025.6.6]**
