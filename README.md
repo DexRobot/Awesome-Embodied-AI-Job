@@ -97,6 +97,18 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [三星电子(北京) - VLA/RL/点云处理 - 社招/校招](https://www.xiaohongshu.com/discovery/item/683fce9f00000000220049c7?source=webshare&xhsshare=pc_web&xsec_token=CBeZRyTkqEhF8A8C9101LAMaOURcc-dNejTzkm-sajY44=&xsec_source=pc_share)
 
 **[2025.6.6]**
+[智元机器人(北京/上海) - 人形模仿学习/强化学习 - 全职](https://agirobot.jobs.feishu.cn/socialrecruitment/position/7441509275601864996/detail)
+
+**[2025.6.6]**
+[上海人工智能实验室 - 三维重建 - 全职/实习](https://www.xiaohongshu.com/discovery/item/6837ff17000000002100b560?source=webshare&xhsshare=pc_web&xsec_token=CB7vrN492Esq6YMIyTYdf6CKTm27jYligrP65Tujp3BAQ=&xsec_source=pc_share)
+
+**[2025.6.6]**
+[小米机器人(北京亦庄) - 双足人形 - 实习](https://www.xiaohongshu.com/discovery/item/6812cc880000000022034ca2?source=webshare&xhsshare=pc_web&xsec_token=CBfWXuDBIfWYZqsfLHpcwhMNbCATDfTwJqRzi0JLERQ4w=&xsec_source=pc_share)
+
+**[2025.6.6]**
+[小雨机器人(北京) - RL/运控/VSLAM/软件开发 - 实习](https://www.xiaohongshu.com/discovery/item/68395b1c000000002100cb82?source=webshare&xhsshare=pc_web&xsec_token=CBfDPs99Ta9SFyn21510S0y7ERyl_--biHv-zOh1rapvQ=&xsec_source=pc_share)
+
+**[2025.6.6]**
 [RoboScience(北京) - 具身智能算法](https://www.xiaohongshu.com/discovery/item/682b5584000000002001e566?source=webshare&xhsshare=pc_web&xsec_token=CBYdvAWnZcynghkkwLdG3PVnTeb857k16tGQjHPlUeEf0=&xsec_source=pc_share)
 
 **[2025.6.6]**
