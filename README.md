@@ -90,6 +90,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [同济大学齐鹏组 - 具身智能血管介入手术机器人/多模态医学影像人工智能 - PostDoc](./2025/同济20250605.md)
 
 **[2025.6.6]**
+[微软亚洲研究院机器学习组工业创新中心 - 具身智能 - 实习](https://mp.weixin.qq.com/s/lpZa1KaSTb0AvefDsxNA8g)
+
+**[2025.6.6]**
 [北京大学信息技术高等研究院MAII Lab - 机器学习/具身智能 - PostDoc - 转载自AI求职](https://mp.weixin.qq.com/s/2h4GrRbTzTyNsiVbgLqNMQ)
 
 **[2025.6.6]**
