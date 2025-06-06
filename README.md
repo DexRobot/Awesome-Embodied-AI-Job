@@ -90,6 +90,36 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [同济大学齐鹏组 - 具身智能血管介入手术机器人/多模态医学影像人工智能 - PostDoc](./2025/同济20250605.md)
 
 **[2025.6.6]**
+[University of Southampton - Multimodal Large Language Model in Human-Robot Interaction - Funded PhD](https://www.findaphd.com/phds/project/multimodal-large-language-model-in-human-robot-interaction/?p178567)
+
+**[2025.6.6]**
+[University of Oxford - Multi-collaborative scouting and mapping with a team of highly mobile robots - Funded PhD](https://www.findaphd.com/phds/project/multi-collaborative-scouting-and-mapping-with-a-team-of-highly-mobile-robots/?p184931)
+
+**[2025.6.6]**
+[University of Southampton - Soft Robots with Integrated Sensing, On-Demand Therapy and AI-assisted Control - Funded PhD](https://www.findaphd.com/phds/project/soft-robots-with-integrated-sensing-on-demand-therapy-and-ai-assisted-control/?p178539)
+
+**[2025.6.6]**
+[University of Bristol - Dexterous 3D-printed Robot Hands - Funded Phd](https://www.findaphd.com/phds/project/dexterous-3d-printed-robot-hands-aria-uk-phd-studentships/?p184645)
+
+**[2025.6.6]**
+[University of Glasgow - AI-Powered Resilient Teleoperation for Autonomous Robotics - Funded PhD](https://www.findaphd.com/phds/project/ai-powered-resilient-teleoperation-for-autonomous-robotics/?p184688)
+
+**[2025.6.6]**
+[University of Manchester/University of Glasgow/University of Oxford - Robotics and AI for Net Zero - Funded PhD](https://www.findaphd.com/phds/program/epsrc-centre-for-doctoral-training-in-robotics-and-ai-for-net-zero-rainz/?i332p6835)
+
+**[2025.6.6]**
+[University of Bath - Modelling and analytical framework for developing dexterous soft robotic manipulators - Funded PhD](https://www.findaphd.com/phds/project/modelling-and-analytical-framework-for-developing-dexterous-soft-robotic-manipulators/?p182880)
+
+**[2025.6.6]**
+[MBZUAI(UAE) - Robotics and AI - Funded PhD](https://www.findaphd.com/phds/program/fully-funded-phd-in-robotics-and-artificial-intelligence/?i3674p6772)
+
+**[2025.6.6]**
+[The University of Manchester - AI Driven Robotics for Intelligent Construction - PhD](https://www.findaphd.com/phds/project/fse-bicentenary-phd-ai-driven-robotics-for-intelligent-construction-optimising-human-robot-collaboration-through-digitalisation/?p179090)
+
+**[2025.6.6]**
+[The University of Manchester - Cloud robotics/Networked Systems - Funded PhD](https://www.findaphd.com/phds/project/robotics-and-ai-cloud-robotics-networked-systems/?p176342)
+
+**[2025.6.6]**
 京东探索研究院(北京亦庄) - 具身智能VLA/自动驾驶VLA
 [社招](https://www.xiaohongshu.com/discovery/item/682ae219000000000f033f9e?source=webshare&xhsshare=pc_web&xsec_token=CBP6zTuQxwIvT_pmjN5dGvkrPYaSHKPY32loK3oBf8zjQ=&xsec_source=pc_share) | [校招](https://www.xiaohongshu.com/discovery/item/682ae219000000000f033f9e?source=webshare&xhsshare=pc_web&xsec_token=CBP6zTuQxwIvT_pmjN5dGvkrPYaSHKPY32loK3oBf8zjQ=&xsec_source=pc_share)
 
