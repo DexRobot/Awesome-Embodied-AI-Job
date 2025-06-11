@@ -86,6 +86,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.6.11]**
+[PNDbotics(北京) - 人形机器人与生成式AI - 全职/实习 - 微信联系Amanda_jejeya](./2025/PNDbotics202506.md)
+
+**[2025.6.11]**
+[意大利技术研究院IIT Arash Ajoudani组 - VLM+机器人 - 全奖PhD](http://xhslink.com/a/9W4o9BS2htFeb)
+
 **[2025.6.6]**
 [同济大学齐鹏组 - 具身智能血管介入手术机器人/多模态医学影像人工智能 - PostDoc](./2025/同济20250605.md)
 
