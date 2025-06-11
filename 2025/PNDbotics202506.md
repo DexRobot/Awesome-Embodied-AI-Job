@@ -1,5 +1,7 @@
 PNDbotics （北京）
 
+微信联系Amanda_jejeya
+
 岗位职责
 1. 基于⽣成式模型设计⼈形机器⼈的动作⽣成⽹络，提升动作⾃然性、多样性与泛化能⼒；
 2. 将VAE、Diffusion、Autoregressive等模型应⽤于机器⼈⾼维动作空间的建模与轨迹合成；
