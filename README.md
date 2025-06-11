@@ -93,6 +93,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [意大利技术研究院IIT Arash Ajoudani组 - VLM+机器人 - 全奖PhD](http://xhslink.com/a/9W4o9BS2htFeb)
 
 **[2025.6.11]**
+[香港大学Zhongliang Jiang组 - Robotic Learning/Autonomous Surgical Robotics - 博士/研究助理/访问学者 - 转载自Ivynue工作室](https://mp.weixin.qq.com/s/kqQJVJUKdtWlEw8nfEJMwg)
+
+**[2025.6.11]**
+[上海交通大学汶川组 - 机器人控制策略模型/硬件设计/机器人系统 - PhD](https://mp.weixin.qq.com/s/z3_TWpSj5amBOovI9PzmbQ)
+
+**[2025.6.11]**
 [香港科技大学人工智能机器人与空间可持续性研究中心 - AI for Space Robotics/Robotic Systems for Space Sustainability/Active Debris Removal - PostDoc/研究助理 - 转载自Ivynue工作室](https://mp.weixin.qq.com/s/5KfA__nk4Ro8dTPpol_tgA)
 
 **[2025.6.11]**
