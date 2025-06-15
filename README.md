@@ -21,7 +21,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
-📫 Lumina community: [社区官方网站](Lumina-Embodied.ai), [Lumina社区飞书群](https://lumina-embodied.ai/QR-Code/feishu.png)
+📫 Lumina community: [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://lumina-embodied.ai/QR-Code/feishu.png)
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
