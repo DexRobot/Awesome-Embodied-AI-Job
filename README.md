@@ -106,6 +106,21 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [University of Luxembourg - SLAM & Situational Awareness for Robotics - PostDoc](https://www.nature.com/naturecareers/job/12840768/postdoc-in-slam-and-situational-awareness-for-robotics/)
 
 **[2025.6.24]**
+[NTU - Medical Robotics - RA](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Medical-Robotics-_R00021055)
+
+**[2025.6.24]**
+[Harvard University (US) - Postdoctoral Fellow in Robotics](https://academicpositions.harvard.edu/postings/14975)
+
+**[2025.6.24]**
+[Luleå University of Technology(Sweden) - Field Robotics with a focus on Extreme Environments - PhD](https://web103.reachmee.com/ext/I003/583/job?site=6&lang=UK&validator=e4575239eb8c0828707e2b716f86c5f8&ref=http%3A%2F%2Fepping.scholarshipdb.net%3A8123%2Fsite%2Fedit%2F9f96e695-e4ac-11e2-bc58-00259053da3a%3Ftype%3Dsdb&ihelper=https%3A%2F%2Fwww.ltu.se%2Fltu%2FLediga-jobb&job_id=9285)
+
+**[2025.6.24]**
+[Luleå University of Technology(Sweden) - Data-driven and learning based control/...others - PhD](https://web103.reachmee.com/ext/I003/583/job?site=6&lang=UK&validator=e4575239eb8c0828707e2b716f86c5f8&ref=http%3A%2F%2Fepping.scholarshipdb.net%3A8123%2Fsite%2Fedit%2F9f96e695-e4ac-11e2-bc58-00259053da3a%3Ftype%3Dsdb&ihelper=https%3A%2F%2Fwww.ltu.se%2Fltu%2FLediga-jobb&job_id=9288)
+
+**[2025.6.24]**
+[King's College of London - robotics and neuro-technology - Research associate](https://my.corehr.com/pls/coreportal_kclp/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=118125)
+
+**[2025.6.24]**
 [北大-灵初联合实验室 - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/NZ68ko4enOQeozzbiN1s4g)
 
 **[2025.6.24]**
