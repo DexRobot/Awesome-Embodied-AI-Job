@@ -21,6 +21,10 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
+⚠️ To avoid mass distribution of your resume by recruiters, please watermark it with "For [Company Name] Application Only". 
+
+⚠️ 为了避免您的简历被海投，请在简历上用水印备注“仅供申请某公司使用”。
+
 📫 Lumina community: [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://lumina-embodied.ai/QR-Code/feishu.png)
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
