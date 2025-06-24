@@ -96,6 +96,18 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 **[2025.6.24]**
 [自变量机器人(深圳/北京) - 强化学习算法工程师/多模态理解算法工程师 - 全职](./2025/自变量20250624.md)
 
+**[2025.6.24]**
+[北大-灵初联合实验室 - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/NZ68ko4enOQeozzbiN1s4g)
+
+**[2025.6.24]**
+[港科大郑展鹏组 - 多旋翼无人机的开发和应用/基于水下机器人的水下目标识别和三维重建 - PostDoc/PhD/RA - 转载自具身智能之心](https://mp.weixin.qq.com/s/9Uwivg5_Nu7h5MaLOMQQyQ)
+
+**[2025.6.24]**
+[南洋理工大学Chuanxia Zheng组 - 三维重建与数字孪生 - PostDoc/PhD/Intern/RA - 转载自Ivynue工作室](https://mp.weixin.qq.com/s/S0VbD0q0dxy18ylig4bZUw)
+
+**[2025.6.24]**
+[南洋理工大学王林组 - 多模态人工智能/基于生物激发的多模态传感融/面向操作与感知的机器人学习 - PhD/PostDoc/访问博士 - 转载自Ivynue工作室](https://mp.weixin.qq.com/s/RqrXz72vJfviTf3pCAnv6A)
+
 **[2025.6.22]**
 [安克创新(深圳/北京/上海/杭州) - 具身智能系列岗位 - 全职](./2025/安克创新20250622.md)
 
