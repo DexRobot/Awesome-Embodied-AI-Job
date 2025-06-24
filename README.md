@@ -100,6 +100,27 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [北大-灵初联合实验室 - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/NZ68ko4enOQeozzbiN1s4g)
 
 **[2025.6.24]**
+[逐际动力 - RLHF强化学习/多模态具身大模型/具身仿真Benchmark - 实习/全职](https://www.xiaohongshu.com/explore/6852bed9000000000d01b52c?xsec_token=ABiKr8cwNtBZDo_NJhg7BJ7OUruhMnBDSnvOHpaO5vdEA=&xsec_source=pc_search&source=web_search_result_notes)
+
+**[2025.6.24]**
+[蚂蚁集团(上海) - 整机硬件产品专家 具身智能方向 - 全职](https://www.xiaohongshu.com/explore/6852a87d000000002201deb7?xsec_token=ABiKr8cwNtBZDo_NJhg7BJ7BsgArimgibfFusZcNCrrXw=&xsec_source=pc_search&source=web_search_result_notes)
+
+**[2025.6.24]**
+[南洋理工PineLab王子为组 - 具身基础模型学习/具身策略迁移部署/具身模型高效推理 - PostDoc/PhD/RA](https://www.xiaohongshu.com/explore/684acdab000000002301f526?xsec_token=ABTeAlVQfXZYw-w1ZsT_oEwOHW_Y206pqwZ9MpNarpCks=&xsec_source=pc_search&source=web_search_result_notes)
+
+**[2025.6.24]**
+[清华深圳研究院王智组 - 空间场景数据标注与构建/VLA空间推理部署与验证 - 实习](https://www.xiaohongshu.com/explore/6858be740000000011002920?xsec_token=AByOo7lFzQaLv4S9DbXlyMxnQRBQaeZxhJ6mVbtBAnkLs=&xsec_source=pc_search&source=web_search_result_notes)
+
+**[2025.6.24]**
+[小米(北京) - 具身智能/世界模型 - 暑期实习](https://www.xiaohongshu.com/discovery/item/68554fff000000001202c76d?source=webshare&xhsshare=pc_web&xsec_token=ABFH6piXKD5YEHKO_feNFBymBT6tEcHvGCuToc1Auta_w=&xsec_source=pc_share)
+
+**[2025.6.24]**
+[上海交大黄涛组 - 跨本体VLA/VLA推理加速/具身世界模型/仿真平台和数据生成 - 实习](https://www.xiaohongshu.com/discovery/item/6852b802000000002203d5ad?source=webshare&xhsshare=pc_web&xsec_token=ABiKr8cwNtBZDo_NJhg7BJ7M5LJt-Hv2iukWrzZZTFjrE=&xsec_source=pc_share)
+
+**[2025.6.24]**
+[傅里叶智能 - 视觉感知工程师 - 全职](https://www.xiaohongshu.com/discovery/item/685a59b3000000001c037a7a?source=webshare&xhsshare=pc_web&xsec_token=CBJTzSGFjh4RB_2_vnwg4fkeYbwGv5Z6Js-D9wXq7c0i0=&xsec_source=pc_share)
+
+**[2025.6.24]**
 [港科大郑展鹏组 - 多旋翼无人机的开发和应用/基于水下机器人的水下目标识别和三维重建 - PostDoc/PhD/RA - 转载自具身智能之心](https://mp.weixin.qq.com/s/9Uwivg5_Nu7h5MaLOMQQyQ)
 
 **[2025.6.24]**
