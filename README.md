@@ -103,6 +103,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [自变量机器人(深圳/北京) - 强化学习算法工程师/多模态理解算法工程师 - 全职](./2025/自变量20250624.md)
 
 **[2025.6.24]**
+[University of Luxembourg - SLAM & Situational Awareness for Robotics - PostDoc](https://www.nature.com/naturecareers/job/12840768/postdoc-in-slam-and-situational-awareness-for-robotics/)
+
+**[2025.6.24]**
 [北大-灵初联合实验室 - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/NZ68ko4enOQeozzbiN1s4g)
 
 **[2025.6.24]**
