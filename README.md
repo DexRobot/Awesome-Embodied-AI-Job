@@ -121,6 +121,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [King's College of London - robotics and neuro-technology - Research associate](https://my.corehr.com/pls/coreportal_kclp/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=118125)
 
 **[2025.6.24]**
+[NTU - Acoustic Soft Robotics - Research Fellow](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Fellow--Acoustic-Soft-Robotics-_R00021115)
+
+**[2025.6.24]**
+[NTU - Fluidic Robotics - Research Fellow](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Fellow--Fluidic-Robotics-_R00021101)
+
+**[2025.6.24]**
 [北大-灵初联合实验室 - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/NZ68ko4enOQeozzbiN1s4g)
 
 **[2025.6.24]**
