@@ -91,6 +91,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.6.25]**
+[逐际动力(北京/深圳) - 具身大模型/RLHF/数据/后端/AI软件/Python后端/前端/人形全身控制/产品经理 - 全职/实习](https://cwjgfm21di.feishu.cn/docx/WhU3d0F3jon2Tux6FbmcmAlInBh)
+
+**[2025.6.25]**
 [TU Eindhoven (Netherlands) - Dynamic Manipulation in Semi-Structured Industrial Settings - PhD](https://tue.varbi.com/en/what:job/jobID:839266/type:job/where:51/apply:1)
 
 **[2025.6.25]**
