@@ -91,6 +91,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.6.25]**
+[香港中文大学李钟毓组 - VLA/Humanoid/Control Theory/Design - PhD/Postdoc/Intern](https://zhuanlan.zhihu.com/p/1917225490940408958)
+
+**[2025.6.25]**
 [逐际动力(北京/深圳) - 具身大模型/RLHF/数据/后端/AI软件/Python后端/前端/人形全身控制/产品经理 - 全职/实习](https://cwjgfm21di.feishu.cn/docx/WhU3d0F3jon2Tux6FbmcmAlInBh)
 
 **[2025.6.25]**
