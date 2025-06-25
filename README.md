@@ -90,6 +90,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.6.25]**
+[TU Eindhoven (Netherlands) - Dynamic Manipulation in Semi-Structured Industrial Settings - PhD](https://tue.varbi.com/en/what:job/jobID:839266/type:job/where:51/apply:1)
+
+**[2025.6.25]**
+[KTH (Sweden) - Industrial automation and intelligent robotics - Assistant Professor](https://kth.varbi.com/en/what:job/jobID:821569/type:job/where:51/apply:1)
+
 **[2025.6.24]**
 [同方鼎欣科技股份有限公司-具身机器人系统工程师-北京海淀区-全职](./2025/同方鼎欣科技股份有限公司-具身机器人系统工程师-北京海淀区-全职)
 
