@@ -88,6 +88,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.6.26]**
+[清华大学“AI+计算生物学”课题组-AI4S方向-博士/博后/RA/实习生](https://mp.weixin.qq.com/s/sFDHNVIDdxTjfVhEeEtlJg)
+
+**[2025.6.26]**
 [跨维（深圳）智能数字科技有限公司招聘-机器人算法工程师](./2025/智能数字)
 
 **[2025.6.26]**
