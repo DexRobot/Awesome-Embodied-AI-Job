@@ -88,6 +88,24 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.6.26]**
+[阿里虎鲸文娱搜索QP团队-大模型算法-实习生](https://mp.weixin.qq.com/s/F1ptbpxxNpaJfQU9RZb8_g)
+
+**[2025.6.26]**
+[新东方教育科技集团AI中心-大模型/NLP算法-实习生](https://mp.weixin.qq.com/s/V4sKNM5mHdg8ThpN-Iy5rw)
+
+**[2025.6.26]**
+[上海人工智能实验室-大模型多智能体方向-科研实习生](https://mp.weixin.qq.com/s/Wd72WOkateq1C3sYHf2HTQ)
+
+**[2025.6.26]**
+[微软亚洲研究院-视觉生成/世界模型方向-研究型实习生](https://mp.weixin.qq.com/s/q8T50amsKmxEgXjYq6yDCw)
+
+**[2025.6.26]**
+[香港科技大学（广州）Zhiqing Hong老师-人工智能-博士/硕士/RA/实习生](https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEJpXWijkixwV7ROM1MAkLHh2ejAaNX2Gmtf1L7D&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhCMoZNUSvFs2ocTTLT2bAw)
+
+**[2025.6.26]**
+[搜狐智能媒体研发中心-推荐算法-实习生](https://mp.weixin.qq.com/s/UsWnJrWwYGHs-7elXPIMig)
+
+**[2025.6.26]**
 [清华大学“AI+计算生物学”课题组-AI4S方向-博士/博后/RA/实习生](https://mp.weixin.qq.com/s/sFDHNVIDdxTjfVhEeEtlJg)
 
 **[2025.6.26]**
