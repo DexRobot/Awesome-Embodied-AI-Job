@@ -87,6 +87,21 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.6.27]**
+[橙子运力-规划算法工程师-正式/实习](https://mp.weixin.qq.com/s/rEKlvE6doTjmohXhL_HRaQ)
+
+**[2025.6.27]**
+[理想汽车『自动驾驶』-大模型/端到端/强化学习算法工程师](https://mp.weixin.qq.com/s/x_JIrayMZZcs01K1F17qUw)
+
+**[2025.6.27]**
+[小米-机器人操作抓取/足式机器人强化学习/大模型强化学习/多模态/机器学习/感知/机器人算法工程师-实习](https://mp.weixin.qq.com/s/Dw8AhoDjFHQzwuU1A_7AVg)
+
+**[2025.6.27]**
+[银河通用-灵巧手操作/机器人全身规划/机器人规划/强化学习控制算法工程师-全职/实习](https://mp.weixin.qq.com/s/4UiVdr2kS1kP_T4cxdAGEQ)
+
+**[2025.6.27]**
+[宇树科技-机器人运动控制/深度强化学习/激光SLAM/AI算法工程师](https://mp.weixin.qq.com/s/N8GpXcFQFkV43e1t48zcJw)
+
 **[2025.6.26]**
 [跨维（深圳）智能数字科技有限公司招聘-机器人算法工程师](./2025/智能数字)
 
