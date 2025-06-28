@@ -87,6 +87,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.6.28]**
+[卓驭(大疆车载, 深圳) - SLAM/决策规划/大模型 - 全职/实习 - 转载自TechTouch](https://mp.weixin.qq.com/s/V2WnURddPlMHtjjalhMPTg)
+
 **[2025.6.27]**
 [橙子运力-规划算法工程师-正式/实习](https://mp.weixin.qq.com/s/rEKlvE6doTjmohXhL_HRaQ)
 
