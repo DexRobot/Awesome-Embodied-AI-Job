@@ -1,4 +1,4 @@
-![e0de214bd799641131df9c8148df7e6](https://github.com/user-attachments/assets/d5f19b43-34a0-4d6c-820b-168a6269cf06)<h1 align="center">
+<h1 align="center">
 Lumina Robotics Talent Call | 具身智能招贤榜
 </h1>
 
