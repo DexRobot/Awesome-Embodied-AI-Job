@@ -1,4 +1,4 @@
-<h1 align="center">
+![e0de214bd799641131df9c8148df7e6](https://github.com/user-attachments/assets/d5f19b43-34a0-4d6c-820b-168a6269cf06)<h1 align="center">
 Lumina Robotics Talent Call | 具身智能招贤榜
 </h1>
 
@@ -88,10 +88,34 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.2]**
+[小米 - 自动驾驶与具身智能算法研究员 (VLA/具身方向) - 社招/校招](https://mp.weixin.qq.com/s/Zbj_pwxK90k1iKJy31UEaQ)
+
+**[2025.7.2]**
+[同济大学设计创意学院CDI数字创新中心人机器人交互组 - 机器人终端用户编程/大模型驱动/具身机器人交互/Unity开发实习生 - 实习生](https://mp.weixin.qq.com/s/bFBmN1ReroNgbcoXTYB1Mw)
+
+**[2025.7.2]**
+[银河通用机器人 - 具身大模型/灵巧手/机器人全是规划/足式强化学习/感知/仿真等算法工程师 - 社招/2026届实习生/暑期实习](https://mp.weixin.qq.com/s/Cohw_SUVR8SpfZ367zVQHA)
+
+**[2025.7.2]**
+[清华大学设计未来课题组 - 具身智能机器人开发与设计 - 实习生](https://mp.weixin.qq.com/s/Q_p3L3vyjQKqN3ILXjVH7g)
+
+**[2025.7.2]**
+[干寻智能 - 机器人高级机械工程师]
+
+**[2025.7.2]**
+[干寻智能 - 机器人资深硬件工程师]
+
+**[2025.7.2]**
+[字节跳动 - 机器人研究员/机器人运动控制算法工程师/机器人多模态大模型算法工程师/NLP算法工程师-应用算法](https://mp.weixin.qq.com/s/G2r-Oz-Kni8LoAN1XovLmw)
+
+**[2025.7.2]**
 [Momenta(北京/上海/苏州) - 端到端大模型算法工程师 - 面向26届博士](./2025/Momenta20250702.md)
 
 **[2025.7.1]**
 [华为-研发算法岗-应届生/实习生](https://mp.weixin.qq.com/s/7PL2kbgQ4RWcbMa9G2QyWQ)
+
+**[2025.6.30]**
+[中国信通院人工智能研究所 - 具身智能研究岗/具身智能实验室运营岗 - 全职/实习生](https://mp.weixin.qq.com/s/aLvTkUVBKmRYlBEuqQKFMQ)
 
 **[2025.6.30]**
 [加州大学洛杉矶分校Bolei Zhou老师-计算机视觉/机器自主系统-博士/visiting students](https://mp.weixin.qq.com/s/kgcEmXt_NrUuNrkYwr4KKQ)
