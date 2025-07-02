@@ -87,6 +87,18 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.1]**
+[华为-研发算法岗-应届生/实习生](https://mp.weixin.qq.com/s/7PL2kbgQ4RWcbMa9G2QyWQ)
+
+**[2025.6.30]**
+[加州大学洛杉矶分校Bolei Zhou老师-计算机视觉/机器自主系统-博士/visiting students](https://mp.weixin.qq.com/s/kgcEmXt_NrUuNrkYwr4KKQ)
+
+**[2025.6.30]**
+[一星机器人-具身智能算法-苏州园区](https://www.xiaohongshu.com/explore/686163ee000000001c034ed0?note_flow_source=wechat&xsec_token=CBw0gj6J49CEo1tCuqyIRMU89ArnlvuPIyQXW2qz4m-mI=)
+
+**[2025.6.30]**
+[一星机器人-硬件开放工程师-苏州园区](https://www.xiaohongshu.com/explore/6861646900000000230072a4?note_flow_source=wechat&xsec_token=CBw0gj6J49CEo1tCuqyIRMU1gPAC6okFDouf-N17LSV3M=)
+
 **[2025.6.28]**
 [卓驭(大疆车载, 深圳) - SLAM/决策规划/大模型 - 全职/实习 - 转载自TechTouch](https://mp.weixin.qq.com/s/V2WnURddPlMHtjjalhMPTg)
 
