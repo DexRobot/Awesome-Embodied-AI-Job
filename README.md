@@ -87,6 +87,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.2]**
+[Momenta(北京/上海/苏州) - 端到端大模型算法工程师 - 面向26届博士](./2025/Momenta20250702.md)
+
 **[2025.7.1]**
 [华为-研发算法岗-应届生/实习生](https://mp.weixin.qq.com/s/7PL2kbgQ4RWcbMa9G2QyWQ)
 
