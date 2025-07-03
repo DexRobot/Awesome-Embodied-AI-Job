@@ -34,6 +34,8 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 [HKU MMlab 香港大学多媒体实验室](https://mmlab.hk/about-us#career)
 
+[光轮智能 (Lightwheel AI)](./2025/lightwheel-ai.md)
+
 [Tesla - Long term recruitment](https://www.tesla.com/careers)
 
 [DIJ 大疆](https://we.dji.com/index_en.html)
