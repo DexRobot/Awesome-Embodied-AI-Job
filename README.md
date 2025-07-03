@@ -94,7 +94,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [同济大学设计创意学院CDI数字创新中心人机器人交互组 - 机器人终端用户编程/大模型驱动/具身机器人交互/Unity开发 - 实习生](https://mp.weixin.qq.com/s/bFBmN1ReroNgbcoXTYB1Mw)
 
 **[2025.7.2]**
-[银河通用机器人 - 具身大模型/灵巧手/机器人全是规划/足式强化学习/感知/仿真等算法工程师 - 社招/2026届实习生/暑期实习](https://mp.weixin.qq.com/s/Cohw_SUVR8SpfZ367zVQHA)
+[银河通用机器人 - 具身大模型/灵巧手/机器人全身控制/足式强化学习/感知/仿真等算法工程师 - 社招/2026届实习生/暑期实习](https://mp.weixin.qq.com/s/Cohw_SUVR8SpfZ367zVQHA)
 
 **[2025.7.2]**
 [清华大学设计未来课题组 - 具身智能机器人开发与设计 - 实习生](https://mp.weixin.qq.com/s/Q_p3L3vyjQKqN3ILXjVH7g)
