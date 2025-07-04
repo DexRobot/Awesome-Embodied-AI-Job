@@ -90,6 +90,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.3]**
+[IDEA机器人感知/VLA 研发招聘 - 实习生](https://zhuanlan.zhihu.com/p/1923711689230099670)
+
+**[2025.7.3]**
 [它石智航 - 机器人算法/机器人多模态感知/VLA/机器人SLAM等算法工程师 - 校招/社招](https://mp.weixin.qq.com/s/KpRcHCurliTTUY3PcErprQ)
 
 **[2025.7.3]**
