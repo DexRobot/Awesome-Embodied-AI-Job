@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.3]**
+[它石智航 - 机器人算法/机器人多模态感知/VLA/机器人SLAM等算法工程师 - 校招/社招](https://mp.weixin.qq.com/s/KpRcHCurliTTUY3PcErprQ)
+
+**[2025.7.3]**
+[妙动科技 - 硬件/机械/算法 - 全职/实习](https://mp.weixin.qq.com/s/8Ttj2upysxmA_aKcEvhUDA)
+
 **[2025.7.2]**
 [小米 - 自动驾驶与具身智能算法研究员 (VLA/具身方向) - 社招/校招](https://mp.weixin.qq.com/s/Zbj_pwxK90k1iKJy31UEaQ)
 
