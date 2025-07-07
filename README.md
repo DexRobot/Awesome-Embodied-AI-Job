@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.6]**
+[星猿哲 - 视觉算法/运动算法/机器人仿真/机械设计研发工程师 - 2026校招](https://mp.weixin.qq.com/s/d1Jpj5fk5KbNVTSXQlvSVw)
+
 **[2025.7.4]**
 [眸深智能 - 机器人工程师/机器人算法 - 全职/实习生](https://mp.weixin.qq.com/s/PG4un99NXBDnOEgNtnxJUA)
 
