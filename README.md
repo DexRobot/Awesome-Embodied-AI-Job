@@ -90,7 +90,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.8]**
-[自变量(深圳优先) - slam/导航/点云/传感器标定/VLN - 全职 - 微信联系chili-ljy]
+[自变量(深圳优先) - slam/导航/点云/传感器标定/VLN - 全职 - 微信联系chili-ljy](./2025/自变量20250708.md)
 
 **[2025.7.6]**
 [星猿哲 - 视觉算法/运动算法/机器人仿真/机械设计研发工程师 - 2026校招](https://mp.weixin.qq.com/s/d1Jpj5fk5KbNVTSXQlvSVw)
