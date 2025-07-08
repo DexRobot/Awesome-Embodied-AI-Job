@@ -90,6 +90,21 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.8]**
+[香港理工大学校长青年学者吴郁杰老师招募 - 脑启发AI/脑认知科学 - 2-5名全奖博士生](https://mp.weixin.qq.com/s/T26HOFOfKR-oq1nYKThlSQ)
+
+**[2025.7.8]**
+[北京智源人工智能研究院 - 机器人系统/多模态/数据/信息检索与知识计算/具身智能 - 2026届校招](https://mp.weixin.qq.com/s/rRovMg7TMF8bkH1SEkrvNA)
+
+**[2025.7.8]**
+[香港科技大学高揚教授招募 - 空间机器人中的人工智能/用于空间可持续性的机器人系统/主动太空碎片清除技术（ADR） - 3名博士后](https://mp.weixin.qq.com/s/wSdeN-NrICrH1DSdYao0dQ)
+
+**[2025.7.8]**
+[上海算法创新研究院/上海交大人工智能学院具身智能团队 - 机器人学习研究工程师 - 全职 - 邮箱投递1252449001@qq.com]()
+
+**[2025.7.8]**
+[智元机器人 - 大模型类/算法类/软件系统类/测试类/其它 - 2026届校招](https://mp.weixin.qq.com/s/WHCgxgQP9_JEw7-7n0x0yA)
+
+**[2025.7.8]**
 [Sharpa灵巧手(上海长宁) - 机器人软件主架构师/强化学习 - 全职 - 微信联系15228417410](./2025/Sharpa灵巧手20250708.md)
 
 **[2025.7.8]**
@@ -101,8 +116,26 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 **[2025.7.8]**
 [自变量(深圳优先) - slam/导航/点云/传感器标定/VLN - 全职 - 微信联系chili-ljy](./2025/自变量20250708.md)
 
+**[2025.7.7]**
+[RoboSense速腾聚创 - 研发技术类/产品管理类/制造技术类 - 2026届校招](https://mp.weixin.qq.com/s/GCudMU-DMLzdBaspcvVLmw)
+
+**[2025.7.7]**
+[知象光电 - 具身智能算法方向/产品研发方向/市场营销方向 - 2026届校招](https://mp.weixin.qq.com/s/IDJKHK7K2UEtS76000RiOA)
+
+**[2025.7.7]**
+[稳正资产 - 智能硬件投资总监/具身智能投资总监 - 社招](https://mp.weixin.qq.com/s/dwGK97REKVMtFSk-v8YApA)
+
+**[2025.7.7]**
+[深圳特修斯机器人有限公司新余研究所 - 机械/结构设计工程师、工业设计工程师 - 全职](https://mp.weixin.qq.com/s/z2qE2mnhxHkLbXXzTYHVNg)
+
+**[2025.7.7]**
+[源络科技 - 多模态算法工程师/机器人学习工程师/感知算法工程师]()
+
+**[2025.7.7]**
+[众擎机器人科技 - 机器人本体研发/具身智能/运动控制/生产制造等]()
+
 **[2025.7.6]**
-[星猿哲 - 视觉算法/运动算法/机器人仿真/机械设计研发工程师 - 2026校招](https://mp.weixin.qq.com/s/d1Jpj5fk5KbNVTSXQlvSVw)
+[星猿哲 - 视觉算法/运动算法/机器人仿真/机械设计研发工程师 - 2026届校招](https://mp.weixin.qq.com/s/d1Jpj5fk5KbNVTSXQlvSVw)
 
 **[2025.7.4]**
 [眸深智能 - 机器人工程师/机器人算法 - 全职/实习生](https://mp.weixin.qq.com/s/PG4un99NXBDnOEgNtnxJUA)
