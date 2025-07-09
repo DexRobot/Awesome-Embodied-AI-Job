@@ -89,6 +89,8 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+[一星机器人(苏州) - 硬件开发/集群运维工程师 - 全职](./2025/苏州一星20250709.md)
+
 **[2025.7.9]**
 [北京大学计算机学院张史梁老师课题组 -  具身智能/多模态大模型轻量化/AIGC - 实习生](https://mp.weixin.qq.com/s/0mg9A1kq5qhQ4OjsVxjzyg)
 
