@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.9]**
+[北京大学计算机学院张史梁老师课题组 -  具身智能/多模态大模型轻量化/AIGC - 实习生](https://mp.weixin.qq.com/s/0mg9A1kq5qhQ4OjsVxjzyg)
+
 **[2025.7.8]**
 [香港理工大学校长青年学者吴郁杰老师招募 - 脑启发AI/脑认知科学 - 2-5名全奖博士生](https://mp.weixin.qq.com/s/T26HOFOfKR-oq1nYKThlSQ)
 
