@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.10]**
+[腾讯 - 技术研究-机器学习/机器人/多模态方向 - 实习](https://mp.weixin.qq.com/s/Zwgc5qbPJARkdX_902co_A)
+
+**[2025.7.10]**
+[智元机器人 - 机器人解决方案实习生/具身感知算法工程师/大语言模型算法实习生 - 全职/实习](https://mp.weixin.qq.com/s/ZvzbnCeFhCfJ54e8mhJNDw)
+
 **[2025.7.9]**
 [一星机器人(苏州) - 硬件开发/集群运维工程师 - 全职](./2025/苏州一星20250709.md)
 
