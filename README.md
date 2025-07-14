@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.11]**
+[香港科技大学郭嵩教授招收 - 大模型/多模态等方向 - 博士/RA/博后](https://mp.weixin.qq.com/s/vbDWWNN-qOH6-bwNN6snIQ)
+
+**[2025.7.11]**
+[小鹏汽车 - 人形机器人运动控制/VLA/VLN/灵巧手/多模态/大模型等 - 2026届校招](https://mp.weixin.qq.com/s/4l5CLf0ukh-dx7wFE4PtkA)
+
 **[2025.7.10]**
 [腾讯 - 技术研究-机器学习/机器人/多模态方向 - 实习](https://mp.weixin.qq.com/s/Zwgc5qbPJARkdX_902co_A)
 
