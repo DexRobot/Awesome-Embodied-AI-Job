@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.14]**
+[华为车BU天才少年 - 自动驾驶世界模型/VLA/强化学习/并行训练/仿真/数据/多模态理解生成...](./2025/微信图片_20250714145742_24.jpg)
+
 **[2025.7.11]**
 [香港科技大学郭嵩教授招收 - 大模型/多模态等方向 - 博士/RA/博后](https://mp.weixin.qq.com/s/vbDWWNN-qOH6-bwNN6snIQ)
 
