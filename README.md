@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.16]**
+[小米(北京) - 机器人多模态大模型研究专家 - 急招全职](./2025/小米20250716.md)
+
 **[2025.7.14]**
 [阿里星顶尖人才计划 - 基础模型/Al Infra/大模型应用/产业AI/计算架构等方向 - 2025/2026届本硕博毕业生](https://mp.weixin.qq.com/s/HyUa11PO94gmIX3FtrDZcA)
 
