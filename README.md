@@ -90,6 +90,10 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.16]**
+[荷兰特文特大学手术机器人实验室 - 手术机器人 - 博士研究生](
+https://zhuanlan.zhihu.com/p/1927028669915857481)
+
+**[2025.7.16]**
 [ELIXIR Lab - 软体机器人的具身协作操控研究 - 博士后](https://zhuanlan.zhihu.com/p/1926318970459358101)
 
 **[2025.7.16]**
