@@ -90,7 +90,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.16]**
-[ELIXIR Lab - 具身智能/软体机器人/协作操控与大语言模型 - 博士后](https://zhuanlan.zhihu.com/p/1926318970459358101)
+[ELIXIR Lab - 软体机器人的具身协作操控研究 - 博士后](https://zhuanlan.zhihu.com/p/1926318970459358101)
 
 **[2025.7.16]**
 [小米(北京) - 机器人多模态大模型研究专家 - 急招全职](./2025/小米20250716.md)
