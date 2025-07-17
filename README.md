@@ -89,6 +89,18 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.17]**
+[一星机器人 - 具身智能算法岗/软件开发岗/硬件开放岗/GPU计算集群岗/产品岗 - 实习/全职](https://mp.weixin.qq.com/s/XjDDivRdbe9f36MOUwTWXQ)
+
+**[2025.7.17]**
+[浙江大学 FAST LAB 实验室 - 「机器人打羽毛球」和「水上漂机器人」项目招聘科研助理 - 实习](https://mp.weixin.qq.com/s/Oics0tNXSdm2ZWe_kOiJ8A)
+
+**[2025.7.17]**
+[深庭纪 - 机器学习工程师/机器人运动控制工程师/高性能计算工程师/强化学习工程师/机器人运动规划与控制算法工程师/C++系统架构与算法工程师 - 全职](https://mp.weixin.qq.com/s/pADJF_XrWyRA3vo32LgUYg)
+
+**[2025.7.17]**
+[机器人算法实习生(具身智能方向) - 实习]()
+
 **[2025.7.16]**
 [荷兰特文特大学手术机器人实验室 - 手术机器人 - 博士研究生](
 https://zhuanlan.zhihu.com/p/1927028669915857481)
