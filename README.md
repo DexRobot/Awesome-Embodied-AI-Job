@@ -2,7 +2,7 @@
 Lumina Robotics Talent Call | 具身智能招贤榜
 </h1>
 
-<div align=center><img src="https://github.com/user-attachments/assets/fdee913e-4c84-4b5b-8761-7b29cf1451ac" width="20%" /></div>
+<div align=center><img src="https://lumina-embodied.ai/Lumina.png" width="80%" /></div>
 
 <p align="center"><strong>For applicants: </strong></p>
 <p align="center"><strong>Don't panic! You are much better than you think!</p>
