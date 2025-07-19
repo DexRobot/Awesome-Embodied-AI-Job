@@ -93,7 +93,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [清华+智谱 - AI基础模型研究/AI机器人技术研究/记忆机理与实时学习算法研究 - 博士后](https://mp.weixin.qq.com/s/T2dt_TVkH_dcOH4m4VfQRw)
 
 **[2025.7.18]**
-[深圳星际光年 - 灵巧手嵌入式软件工程师/灵巧手设计工程师(机械方向)/灵巧操作学习算法工程师 - 全职]
+[深圳星际光年 - 灵巧手嵌入式软件工程师/灵巧手设计工程师(机械方向)/灵巧操作学习算法工程师 - 全职](./2025/星际光年20250718.md)
 
 **[2025.7.18]**
 [NUS CLeAR 实验室 - 机器人操作 - 全职/兼职/实习](https://www.xiaohongshu.com/explore/6878e000000000002201e7dc?xsec_source=pc_feed&note_flow_source=wechat)
