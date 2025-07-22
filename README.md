@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.21]**
+[微软 - 图像/视频/3d生成or pretraining/posttraining相关 - 实习](https://www.xiaohongshu.com/explore?app_platform=android&ignoreEngage=true&app_version=8.91.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBs54VZkdtUhX_MMDxRiTmB6Aju4VfqgICVvdxfOZs8r8%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0w0Q0hKSE82NzUyOTgwNjY0OTc5PjpB&apptime=1752999401&share_id=236c9c0bb4644a84b5c1e65859ad6338&share_channel=wechat&wechatWid=d2084be256e3e22a1f437385f491410a&wechatOrigin=menu&target_note_id=687b9e970000000012023dc6&note_flow_source=wechat)
+
 **[2025.7.18]**
 [清华+智谱 - AI基础模型研究/AI机器人技术研究/记忆机理与实时学习算法研究 - 博士后](https://mp.weixin.qq.com/s/T2dt_TVkH_dcOH4m4VfQRw)
 
