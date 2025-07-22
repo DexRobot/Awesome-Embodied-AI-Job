@@ -89,6 +89,11 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+[珞石机器人 - 软件工程师/机械工程师/测试工程师/控制工程师等方向 - 2026届校招](https://mp.weixin.qq.com/s/YCNXMHxGyN6aWV1WImj6ug)
+
+**[2025.7.22]**
+[灵心巧手/赛那德招聘 - 海外销售经理/具身智能大客户经理/机器人KA销售 - 全职](https://mp.weixin.qq.com/s/fIf4jaZSLLrQ1Y7LlwgdEw)
+
 **[2025.7.21]**
 [微软 - 图像/视频/3d生成or pretraining/posttraining相关 - 实习](https://www.xiaohongshu.com/explore?app_platform=android&ignoreEngage=true&app_version=8.91.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBs54VZkdtUhX_MMDxRiTmB6Aju4VfqgICVvdxfOZs8r8%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0w0Q0hKSE82NzUyOTgwNjY0OTc5PjpB&apptime=1752999401&share_id=236c9c0bb4644a84b5c1e65859ad6338&share_channel=wechat&wechatWid=d2084be256e3e22a1f437385f491410a&wechatOrigin=menu&target_note_id=687b9e970000000012023dc6&note_flow_source=wechat)
 
@@ -102,7 +107,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [NUS CLeAR 实验室 - 机器人操作 - 全职/兼职/实习](https://www.xiaohongshu.com/explore/6878e000000000002201e7dc?xsec_source=pc_feed&note_flow_source=wechat)
 
 **[2025.7.18]**
-[RoboSense 2026“天才罗伯特”人才计划 - 硬件/算法/产品方向 - 校招](https://mp.weixin.qq.com/s/EgA7VwxvBNqOHTd2FGg5tw)
+[RoboSense 2026“天才罗伯特”人才计划 - 硬件/算法/产品方向 - 校招 ](https://mp.weixin.qq.com/s/EgA7VwxvBNqOHTd2FGg5tw)
 
 **[2025.7.17]**
 [苏州一星机器人 - 具身智能算法岗/软件开发岗/硬件开放岗/GPU计算集群岗/产品岗 - 实习/全职](https://mp.weixin.qq.com/s/XjDDivRdbe9f36MOUwTWXQ)
