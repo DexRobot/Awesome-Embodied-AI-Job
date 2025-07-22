@@ -89,6 +89,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.22]**
 [珞石机器人 - 软件工程师/机械工程师/测试工程师/控制工程师等方向 - 2026届校招](https://mp.weixin.qq.com/s/YCNXMHxGyN6aWV1WImj6ug)
 
 **[2025.7.22]**
