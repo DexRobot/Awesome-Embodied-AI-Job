@@ -90,6 +90,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.25]**
+[深圳人工智能与机器人研究院 - 大模型算法研究员/工程师、具身智能研究员/工程师、机器人导航算法研究员/工程师 - 2026届招聘](https://mp.weixin.qq.com/s/dSSEYfFjo48OomKoSqZf_A)
+
+**[2025.7.25]**
 [小鹏汽车 - 多模态理解/多模态生成/三维视觉/自动驾驶/大模型/CV/Audio/NLP等 - 社招(急)/校招/实习](https://www.xiaohongshu.com/explore/6882528f000000002201d1e9?note_flow_source=wechat&xsec_token=CBr0bpBfq2bH9Jp_93jo8TFDdVdSzbUjSnDicXOUOcLv4=)
 
 **[2025.7.25]**
