@@ -89,6 +89,18 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.25]**
+[小鹏汽车 - 多模态理解/多模态生成/三维视觉/自动驾驶/大模型/CV/Audio/NLP等 - 社招(急)/校招/实习](https://www.xiaohongshu.com/explore/6882528f000000002201d1e9?note_flow_source=wechat&xsec_token=CBr0bpBfq2bH9Jp_93jo8TFDdVdSzbUjSnDicXOUOcLv4=)
+
+**[2025.7.25]**
+[NUS CLeAR Lab - 机器人操作方向 - 全职/兼职](https://www.xiaohongshu.com/explore/687df4c30000000023007cfa?note_flow_source=wechat&xsec_token=CBnnN_5DmnU4PmhI_f5Uax8wR9Q0CGYNi_mOZ1tesmxzw=)
+
+**[2025.7.24]**
+[中豫具身智能实验室 - 机械工程/自动化/机器人学等专业相关科研岗 - 博士研究生](https://ywzl.hrss.henan.gov.cn/sitegroup/root/html/4aef1408279926e601279e53eac517a5/6497fc6c3d55451fb66001c89d319506.html?sessionid=371208691)
+
+**[2025.7.23]**
+[智元机器人 - 仿真开发工程师/硬件工程师/数据分析与挖掘工程师 - 校招](https://mp.weixin.qq.com/s/sAKd2NNDVcBWl7xdWYFZlA)
+
 **[2025.7.22]**
 [珞石机器人 - 软件工程师/机械工程师/测试工程师/控制工程师等方向 - 2026届校招](https://mp.weixin.qq.com/s/YCNXMHxGyN6aWV1WImj6ug)
 
