@@ -90,6 +90,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.27]**
+[帕西尼感知科技（天津）有限公司 - 数据采集员/机器人助理工程师/视觉算法工程师专家/视觉算法助理工程师 - 社招](https://mp.weixin.qq.com/s/xMtWHXXzzRZ00sHI9N6bPQ)
+
+**[2025.7.27]**
+[香港大学 - 具身智能方向 - 博士生](https://mp.weixin.qq.com/s/5-vvauxczRcfDfenqz5mnQ)
+
+**[2025.7.27]**
 [嘉陵江实验室 - 大模型工程师(含LLM 与时空模型)/嵌入式与实时系统工程师 - 社招](https://mp.weixin.qq.com/s/bMUP2pqVu5GND-GjbslkIw)
 
 **[2025.7.26]**
