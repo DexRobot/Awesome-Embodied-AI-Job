@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.27]**
+[嘉陵江实验室 - 大模型工程师(含LLM 与时空模型)/嵌入式与实时系统工程师 - 社招](https://mp.weixin.qq.com/s/bMUP2pqVu5GND-GjbslkIw)
+
 **[2025.7.26]**
 [中能坤域科技控股(浙江)有限公司 - 具身智能/产品研发/产品运营等相关岗位 - 社招](https://mp.weixin.qq.com/s/vWVeQOFNTbtUAtGkWnAkjw)
 
