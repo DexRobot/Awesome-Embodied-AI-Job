@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.26]**
+[中能坤域科技控股(浙江)有限公司 - 具身智能/产品研发/产品运营等相关岗位 - 社招](https://mp.weixin.qq.com/s/vWVeQOFNTbtUAtGkWnAkjw)
+
+**[2025.7.26]**
+[厨芯科技 - 具身智能算法工程师（数据方向） - 校招](https://mp.weixin.qq.com/s/w9uNz-pGwya5Z2RgFTCAyQ)
+
 **[2025.7.25]**
 [深圳人工智能与机器人研究院 - 大模型算法研究员/工程师、具身智能研究员/工程师、机器人导航算法研究员/工程师 - 2026届招聘](https://mp.weixin.qq.com/s/dSSEYfFjo48OomKoSqZf_A)
 
