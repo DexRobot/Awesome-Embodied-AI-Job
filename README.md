@@ -90,6 +90,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.27]**
+[中国科学院空间应用工程与技术中心 空间实验技术研究室 - 空间具身智能系统/空间灵巧机构研发岗/空间灵巧机构研发岗/传感器与感知算法开发等 - 2025年招聘](https://mp.weixin.qq.com/s/uugTBbyUzia61rxzPW1s_Q)
+
+**[2025.7.27]**
 [帕西尼感知科技（天津）有限公司 - 数据采集员/机器人助理工程师/视觉算法工程师专家/视觉算法助理工程师 - 社招](https://mp.weixin.qq.com/s/xMtWHXXzzRZ00sHI9N6bPQ)
 
 **[2025.7.27]**
