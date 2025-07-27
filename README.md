@@ -90,6 +90,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.27]**
+[汉宇晨星 - 机器人研发专家 - 全职](https://mp.weixin.qq.com/s/zREbnV4BqRpG4P5FrZeqcg)
+
+**[2025.7.27]**
 [中国科学院空间应用工程与技术中心 空间实验技术研究室 - 空间具身智能系统/空间灵巧机构研发岗/空间灵巧机构研发岗/传感器与感知算法开发等 - 2025年招聘](https://mp.weixin.qq.com/s/uugTBbyUzia61rxzPW1s_Q)
 
 **[2025.7.27]**
