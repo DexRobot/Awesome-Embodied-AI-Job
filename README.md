@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.29]**
+[Sharpa - 机器人机械工程师/机器人电子工程师/机器人系统工程师/触觉应用算法工程师/机器人算法工程师（Manipulaton方向）/嵌入式软件工程师/无线软件开发工程师 - 2026校招](https://mp.weixin.qq.com/s/tjV-u67J4gM7JlpZcq7kkw)
+
+**[2025.7.29]**
+[智元机器人“优才计划” - 真机强化学习(具身操作)/运动控制算法/感知/规控/力控算法/多模态大模型(VLA/VLM)等方向 - 校招](https://mp.weixin.qq.com/s/Yl51rrhJs8KTE-6kUE1qfw)
+
 **[2025.7.28]**
 [硅基方舟(杭州) - 运动控制算法工程师 - 全职](./2025/硅基方舟20250728.md)
 
