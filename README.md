@@ -90,6 +90,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.7.31]**
+[上海人工智能实验室具身智能中心 - 具身智能-AIGC青年研究员/仿真平台青年研究员/人体运动策略青年研究员/具身智能大模型青年研究员/足式机器人青年研究员/强化学习青年研究员/AIGC算法实习生等 - 校招/实习/社招](https://zhuanlan.zhihu.com/p/1915789829809108777)
+
+**[2025.7.31]**
 [小鹏机器人中心多模态智能部 - 具身多模态大模型/世界模型方向 - 社招/校招/实习](https://mp.weixin.qq.com/s/LEiXxrfJBqJcrdWbMAV8SQ)
 
 **[2025.7.30]**
