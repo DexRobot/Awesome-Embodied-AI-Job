@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.7.31]**
+[小鹏机器人中心多模态智能部 - 具身多模态大模型/世界模型方向 - 社招/校招/实习](https://mp.weixin.qq.com/s/LEiXxrfJBqJcrdWbMAV8SQ)
+
+**[2025.7.30]**
+[原力灵机 - 具身智能大模型算法研究员/机器人系统算法工程师/具身智能传感器工程师等 - 2026校招](https://mp.weixin.qq.com/s/G9Y8BllhnUVh6ADt03z-BQ)
+
 **[2025.7.29]**
 [Sharpa - 机器人机械工程师/机器人电子工程师/机器人系统工程师/触觉应用算法工程师/机器人算法工程师（Manipulaton方向）/嵌入式软件工程师/无线软件开发工程师 - 2026校招](https://mp.weixin.qq.com/s/tjV-u67J4gM7JlpZcq7kkw)
 
