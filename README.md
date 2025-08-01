@@ -20,7 +20,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ⚠️ To avoid mass distribution of your resume by recruiters, please watermark it with "For [Company Name] Application Only". 
 
-📫 Lumina community: [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://lumina-embodied.ai/QR-Code/feishu.png)
+📫 Lumina community: [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=997pce8f-b6d9-4eaa-a974-c33d111eb136)
 
 📚 [Xbot具身知识库](https://mp.weixin.qq.com/s/zBuLAvh7ulbTNQe6jpzC5Q)
 
