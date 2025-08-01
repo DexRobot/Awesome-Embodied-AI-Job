@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.1]**
+[天奇股份 - 机器人视觉工程师/机器人工程师/机器人销售经理/机器人数据采集工程师等 - 社招](https://mp.weixin.qq.com/s/su94_m5lmIkxyh0L0rFOXA)
+
+**[2025.8.1]**
+[智源 - 具身大模型研究员 - 社招/校招/实习](https://mp.weixin.qq.com/s/9XUPMjT-j1IHebG2aF-VZw)
+
 **[2025.7.31]**
 [上海人工智能实验室具身智能中心 - 具身智能-AIGC青年研究员/仿真平台青年研究员/人体运动策略青年研究员/具身智能大模型青年研究员/足式机器人青年研究员/强化学习青年研究员/AIGC算法实习生等 - 校招/实习/社招](https://zhuanlan.zhihu.com/p/1915789829809108777)
 
