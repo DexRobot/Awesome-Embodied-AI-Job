@@ -89,6 +89,24 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.5]**
+[深圳无界智慧 - 机器人导航/医疗Agent开发工程师/具身操作算法等 - 全职/实习](https://mp.weixin.qq.com/s/HfatLd5lBJeIMyc74YBgJg)
+
+**[2025.8.5]**
+[“共创明天代表作” 智源研究院 - 机器人系统/数据/多模态/具身智能等方向 - 校招](https://mp.weixin.qq.com/s/Wmew6mBISII9BdTRFT4Hug)
+
+**[2025.8.4]**
+[无界智慧 - 操作算法/导航算法/运动控制等方向 - 社招/实习](https://mp.weixin.qq.com/s/G6ccAwqEcdR_toaYsqf5xQ)
+
+**[2025.8.4]**
+[杭州湾具身智能创新中心 - 机器人数采实习生/机器人数据审核实习生 - 实习](https://mp.weixin.qq.com/s/wWEzRHTjTATIKFZ3SiGNdg)
+
+**[2025.8.4]**
+[它石智航 - 机器人算法工程师-强化学习/机器人SLAM算法工程师/机器人算法工程师-决策规划等 - 校招](https://mp.weixin.qq.com/s/tUiAS4yJ1sHsi5247Bf5Dw)
+
+**[2025.8.2]**
+[银河通用 - 具身智能课程研究员 - 全职/实习]()
+
 **[2025.8.1]**
 [天奇股份 - 机器人视觉工程师/机器人工程师/机器人销售经理/机器人数据采集工程师等 - 社招](https://mp.weixin.qq.com/s/su94_m5lmIkxyh0L0rFOXA)
 
