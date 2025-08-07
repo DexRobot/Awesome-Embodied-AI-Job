@@ -90,6 +90,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.8.7]**
+[自变量机器人 - 多模态生成算法工程师/3D生成算法工程师/语音算法工程师/运动控制算法工程师等 - 2026校招](https://mp.weixin.qq.com/s/Ic5aVAMvdo22Z0MCzMr25Q?scene=1&click_id=17)
+
+**[2025.8.7]**
 [稳正资产 - 智能硬件投资总监/具身智能投资总监 - 社招](https://mp.weixin.qq.com/s/wmI9pK2k0vx3D1qSLzBOSg?scene=1)
 
 **[2025.8.6]**
