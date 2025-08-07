@@ -89,6 +89,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.7]**
+[稳正资产 - 智能硬件投资总监/具身智能投资总监 - 社招](https://mp.weixin.qq.com/s/wmI9pK2k0vx3D1qSLzBOSg?scene=1)
+
+**[2025.8.6]**
+[苏州博世XC事业部 - 自动驾驶高精地图算法工程师(两年以上智驾行业经验) - 社招](https://mp.weixin.qq.com/s/0NA5mmqQX7suWxYFbpdGCw?scene=1)
+
+**[2025.8.6]**
+[无界智慧 - 机器人操作工程师/医疗Agent开发工程师/机器人导航工程师/机器人硬件运动控制工程师等 - 全职/实习](https://mp.weixin.qq.com/s/xokgedigrlhdao3ZQcr0rQ?scene=1)
+
 **[2025.8.5]**
 [深圳无界智慧 - 机器人导航/医疗Agent开发工程师/具身操作算法等 - 全职/实习](https://mp.weixin.qq.com/s/HfatLd5lBJeIMyc74YBgJg)
 
