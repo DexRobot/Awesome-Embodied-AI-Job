@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.9]**
+[智子力控(宁波) - 机器人电气与控制工程师(ROS和柔顺控制) - 全职](./2025/智子力控20250809.md)
+
 **[2025.8.7]**
 [自变量机器人 - 多模态生成算法工程师/3D生成算法工程师/语音算法工程师/运动控制算法工程师等 - 2026校招](https://mp.weixin.qq.com/s/Ic5aVAMvdo22Z0MCzMr25Q?scene=1&click_id=17)
 
