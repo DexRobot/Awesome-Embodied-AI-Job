@@ -89,6 +89,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.12]**
+[PaXini - 具身智能算法/机器人智能系统/运动控制算法等 - 社招](https://mp.weixin.qq.com/s/F9-vJjEJY65-yqbcX5IIsg?scene=1&click_id=9)
+
+**[2025.8.12]**
+[河南具身智能产业发展有限公司招聘10人 - 国企](https://mp.weixin.qq.com/s/uq0iEfOAfmFstIO8_e0Kgw?scene=1&click_id=8)
+
+**[2025.8.11]**
+[舞肌科技 - 具身大模型强化学习算法工程师/大模型部署工程师等 - 校招](https://mp.weixin.qq.com/s/_6_TJS2smzLWG5-GV9WicQ)
+
 **[2025.8.9]**
 [智子力控(宁波) - 机器人电气与控制工程师(ROS和柔顺控制) - 全职](./2025/智子力控20250809.md)
 
