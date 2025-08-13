@@ -96,7 +96,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [Dyna Robotics - 机械工程师/高级机器人工程师/机器学习工程师等 - 全职](https://www.xiaohongshu.com/explore/689916ec000000002501124e?note_flow_source=wechat&xsec_token=ABHCM5cemUQ0M6aqXqVjJ8mmx42_6HMUG_xVF4Ijqph0U=)
 
 **[2025.8.13]**
-[宇树机器人 - 操作员](https://www.xiaohongshu.com/explore/67ee87d8000000001c031475?xsec_source=pc_feed&note_flow_source=wechat)
+[宇树机器人 - 操作员]([https://www.xiaohongshu.com/explore/67ee87d8000000001c031475?xsec_source=pc_feed&note_flow_source=wechat](https://www.xiaohongshu.com/explore/67ee87d8000000001c031475?secondshare=weixin&share_from_user_hidden=false&appuid=&apptime=&share_id=&xsec_source=h5_share&xsec_token=ABqAdUJ2j9w7U8nRSwUIpFjl0v4LVxHkun-vmaDw0WHhE=))
 
 **[2025.8.12]**
 [PaXini - 具身智能算法/机器人智能系统/运动控制算法等 - 社招](https://mp.weixin.qq.com/s/F9-vJjEJY65-yqbcX5IIsg?scene=1&click_id=9)
